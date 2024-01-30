@@ -1,0 +1,60 @@
+{
+    "author-id": "telstar-util",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIEDhgxYtsKBAgQIECBAgQIECBAgPFVixYsWLCyxYsWLFhNYsWLFixAgQIECBAgQIBoVAgQIECBAgQQpk-HLDIKEGlUsg0DJgyZIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgPFVixYsWLCyxYsWLFhNYsWLFixAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAaFBysPPfuQUt-LLy6c9-5AgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgDVNGVBt38-iDHv28OWXRl3c9PbKgx9eWHpv5IN-ZAgQIECAN0y7MvTL46LEGHdkQYUGvL5QcOW_hv3Zd3RBvzIECBAgQIA3LLj39svLTuzoNPRBm5b9qDfsyIO2nJl3oOmHhl5rkCBAgDT-vJBz349OHYg25cmnCgx6MO3ggzb-SDpoyoMvbLu6LkCANQ2YfPNB00ZUGfrp6YeSDDuyIMnLrt5rEHfRpx6EG3D5QIA2LKg0Yd2Tyg56N_XZkQd8qDdly5EHTeg5ZeGXYgQIECBAgDYd2_poy8kHXXl2ZdmVAn58MuPTh2IN_DLyw9NO_cnXIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQVNGVBDy7unLKgzb-SCHv28OvTTuzoJGnn038vKBAgQIECBAgQBUDJnyyIMO7IgZNOmhBB4ctOxAyYMmSBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "test",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 80116
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        801160,
+        801161,
+        801162,
+        801163,
+        801164,
+        801165,
+        801166,
+        801167,
+        801168,
+        801169,
+        8011
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "w"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPrestel                \u001bG1791a     \u001bC0.5p\r\n\u001bBINFORMATION NOW ON PRESTEL\r\n\u001bRppppppppppppppppppppppppppppppppppppppp\u001bR%\r\n 1 BUSINESS\u001bC0.5p\u001bBShares,money,companies  2 SPORT \u0026 HOBBIES\u001bC0.5p\u001bBTaking part,rcds 3 ENTERTAINMENT\u001bC0.5p\u001bBPlaces to visit,\r\n   \u001bBjokes,quizzes,eating out,theatre\r\n 4 HOLIDAYS,TRANSPORT,TRAVEL\u001bC0.5p\u001bBhotels   \u001bBpackage tours,air,sea,rail,motoring  5 MARKETPLACE;C0.5p\u001bBSales,consumer aid\r\n 6 ADVICE\u001bC0.5p\u001bBMedical,education,money,    \u001bBsafety,buying advice,legal\r\n 7q#\u001bBElec.engineering,chem.\r\n\u001bG8 EMPLOYMENT\u001bC0.5p\u001bBjobs,careers,law\r\n\u001bG9 BOOKS \u0026 REFERENCE\u001bC0.5p\u001bBfacts,reviews \u001bG0 OTHER\u001bC0.5p\u001bBGovernment information\r\n\u001bR4 \u001bBhoroscopes,weather,charities\r\n\u001bR!\r\n\u001bR7k`p`p0pp`t`p05\u001bBTM\r\n\u001bR=.j j,%-l 5j,%5\r\n\u001bR! \" \"#!## #\"#!!########################\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

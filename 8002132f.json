@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gf|IN\"|L|1A|0^|1T|5G|0}ans$=\"Y\"}go%=0|L|1A|0h|1E|5A|L|1A|0r}|5T|0***************************|L|1A|E|0}|5T|0***************************|L|1A|2F|1L|4]|5R|0colour|L|1A|2P|05|5T|0}This}colours}display}at}next}available}position|L|1A|2Z|0@col%=column%:row%=0:|5U|0:row%=row%+1:|5]|0position%(row%,column%)=0|L|1A|3D|0!position%(row%,column%)=2-go%|L|1A|3N|0/|5[|0(130-go%):|5Q|2J|07+3*column%,23-3*row%);C$:|5[|0128|L|1A|3X|1E|5A|L|1A|4B|0}|5T|0***************************|L|1A|4L|0}|5T|0***************************|L|1A|4V|0}|4]|5R|0circles:|5T|0}Draws}one}circle|L|1A|5@|2L|5O|023,224,255,255,255,252,240,224,224,192:|5O|023,227,192,128,128,128,128,128,128,192:|5O|023,229,3,1,1,1,1,1,1,3:|5O|023,226,255,255,255,63,31,15,7,3|L|1A|5J|0t|5O|023,232,3,7,15,31,63,255,255,255:|5O|023,228,0,0,0,0,0,0,0,0:|5O|023,225,255,255,0,0,0,0,0,0:|5O|023,231,0,0,0,0,0|Z041",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "f",
+        "page-no": 8002132
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80021320,
+        80021321,
+        80021322,
+        80021323,
+        80021324,
+        80021325,
+        80021326,
+        80021327,
+        80021328,
+        80021329,
+        800213
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

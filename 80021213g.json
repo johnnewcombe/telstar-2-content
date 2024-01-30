@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gg|I|2M|0T~H|L|1H|2D|0'}ER$=\"INV}without}SIN,COS}or}TAN\":|2E|L|1H|2X|1W|0}|5T|0}Check}for}RECALL|L|1H|3B|1_|0}Z%=|3G|0Z$,|3]|0\u002682):|5G|0}Z%=0}|2L|0}|2M|0d|EH|L|1H|3L|0+}ER$=\"Number}after}RECALL}out}of}range\"|L|1H|3V|0(}Y%=|3@|0(|4A|0Z$,Z%+1,1)):|5G|0}Y%\u003c0}|2D|0}Y%\u003e9}|2L|0}|2E|L|1H|4@|1P|0}X=STORE(Y%)|L|1H|4J|0\u0026}Z$=|4@|0Z$,Z%-1)+|4C|0(X)+|4A|0Z$,Z%+2):|5E|2M|0tbH|L|1H|5\\|1V|0}|5T|0}Check}for}STORE|L|1IF^|0}Z%=|3G|0Z$,|3]|0\u002681):|5G|0}Z%=0}|2LM|0D`I|L|1IP|0)}ER$=\"Invalid}expression}after}STORE\"|L|1IZ|0\u0026}Y%=|3@|0(|4A|0Z$,Z%+1)):|5G|0}Y%\u003c0}|2D|0}Y%\u003e9}|2L|0}|2E|L|1I|0$*}ER$=\"Invalid}expression}before}STORE\"|L|1I|0.|1S|0}X=|3@|0(|4@|0Z$,Z%-1))|L|1I|08*}STORE(Y%)=X:Y$=|4C|0(Y%):|5G|0}MEM$=\"\"}|2L|0}|2M|0DLI|L|1I|0B|1Y|0}|5G|0}|3G|0MEM$,Y$)\u003e0}|2L|0}|2M|0DVI|L|1I|0L|1V|0}MEM$=MEM$+\"}}\"+Y$|L|1I|0V|1G|0}=X|L|1I|0`|1W|0}ER$=\"\":=|3@|0(\"0+\"+Z$)|L|1S|2H|1Q|Z012",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "g",
+        "page-no": 80021213
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212130,
+        800212131,
+        800212132,
+        800212133,
+        800212134,
+        800212135,
+        800212136,
+        800212137,
+        800212138,
+        800212139,
+        8002121
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

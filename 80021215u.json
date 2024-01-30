@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gu|ITY\u0026FE40:LDY#\u002610:.WAIT}DEY:BNE}WAIT:LDY#\u002608:STY\u0026FE40:PLP:RTS:]:|5A|L|0't|1X|4]|5R|0C(C%)}A%=C%:|4V|0OG%:|5A|L|0'|4X|0(|4]|5R|0A(CH%,AT%)}|5R|0C(\u002680+CH%*32+31-AT%):|5A|L|0(\u003c5|4]|5R|0F(CH%,FR%)}|5R|0C(\u002680+CH%*32+(FR%|2C|016)):|5R|0C(FR%/16):|5A|L_|F|Z127",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "u",
+        "page-no": 80021215
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212150,
+        800212151,
+        800212152,
+        800212153,
+        800212154,
+        800212155,
+        800212156,
+        800212157,
+        800212158,
+        800212159,
+        8002121
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 8001710,
+        "frame-id": "l"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\r\r\r\u0014\u001bBPresenting Prestel     \u001bG646614a   \u001bC  0p\u001bSh|4  \u001bC\r\n\u001bSn=$\u001bCKEY FEATURES OF PRESTEL\r\n\u001bSzu|0\u001bC\r\n\u001bSj5s \u001bGYou choose the pages\r\n\u001bSk7/!\u001bGyou want to see\r\n\u001bSj5\r\n\u001bSj5\u001bG  Open 23 hours every day\r\n\u001bSj5\u001bC                             \u001bShxt4 \u001bSj5\u001bC \u001bGAt h at work        \u001bShzu4 \u001bSj5                              \u001bShzu4 \u001bSj5\u001bC\u001bG Easy to use                 \u001bSj5\r\n\u001bSj5\u001bC                              \u001bSj5\u001bC \u001bGUp-|information      \u001bSj5\r\n\u001bSj5\u001bC                             \u001bS\u001bSj5\r\n\u001bSj5\u001bC\u001bG A wide range of detailed   \u001bS\u001bSj5\r\n\u001bSj5\u001bC \u001bGinformation                 \u001bSj5\r\n\u001bSj5\u001bC                          p#*-5\u001bC \u001bGArmchair shopping           \u001bS\r\n\u001bSj5\r\n\n\u001bBProduction for the PO by Mills \u0026 Allen",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

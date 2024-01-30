@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "q"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBWhich?                 \u001bG3341048a  \u001bC  2p\u001bBNORTH\r\n\r\n\u001bBITALIAN\r\n\u001bC1  DUE FRANCO, Liverpool Rd, N1\r\n\u001bC2  SAN CARLO, Highgate High St, N6\r\n\u001bC3  SIENA, Highbury Corner, N5\r\n\r\n\u001bBFRENCH\r\n\u001bC4  CHEZ FRANCOIS, Bush Hill Park, N21\r\n\u001bC5  M'SIE\u0003ssex Road, N1\r\n\r\n\u001bBGREEK/TURKISH/CYPRIOT\r\n\u001bC6  SULTAN'S DELIGHT, Upper St, :N\r\nj9ur#84T~IAN RESTAURANT, York Way, N1\r\n\u001bBSCANDINAVIAN\r\n\u001bC8  ANNA'S PLACE, Barnsbury St, N1\r\n\r\n\u001bBKey number for more details\r\n\u001bALONDON.RESTAURANTS BY AREA.\r\n\r\n\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

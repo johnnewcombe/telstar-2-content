@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Ge|I10}K=K+(N\u003cX2)+(N\u003cY2)+(N\u003c.28)+(N\u003c.08)+(N\u003c.03)+(N\u003c.01):K9=K9-K:GOTO}240|L|1J|0220}T0=3421:T=T0:E0=4000:E=E0:P0=10:P=P0:FOR}I=0}TO}7|L|1J|0230}FOR}J=0}TO}7:K=0:N=RND(Y):IF}N\u003cX1}THEN}N=N*64:K=(N\u003cY1)-Y:GOTO}210|L|1J|0240}B=(RND(Y)\u003eA):B9=B9-B:Q(I,J)=K*C+B*W-INT(RND(Y)*X+Y):NEXT}J,I|L|1J|0250}IF}K9\u003e(T9-T0)}THEN}T9=T0+K9|L|1J|0260}IF}B9\u003e0}THEN}280|L|1J|0270}GOSUB}530:Q(X,Y)=Q(X,Y)-10:B9=1|L|1J|0280}PRINT}LEFT$(\"STARTREK}ADAPTED}BY}L.E.}COCHRAN}2/29/76\",8):K0=K9|L|1J|0290}PRINT\"OBJECTIVE:}DESTROY\";K9;\"KLINGON}BATTLE}CRUISERS}IN\";T9-T0;|L|1J|0300}PRINT\"YEARS.\":PRINT\"}THE}NUMBER}OF}STARBASES}IS\";B9|L|1J|0310}A=0:IF}Q1\u003c0}OR}Q1\u003e7}OR}Q2\u003c0}OR}Q2\u003e7}THEN}N=0:S=0:K=0:GOTO}330|L|1J|0320}N=ABS(Q(Q1,Q2)):Q(Q1,Q2)=N:S=N-INT(N/10)*10:K=INT(N/100)|L|1J|0330}B=INT(N/10-K*10):GOSUB}530:S1=X:S2=Y|L|1J|0340}FOR}I=0}TO}7:FOR}J=0}TO}7:S(I,J)=1:NEXT}J,I:S(S1,S2)=2|L|Z080",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "e",
+        "page-no": 80022
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800220,
+        800221,
+        800222,
+        800223,
+        800224,
+        800225,
+        800226,
+        800227,
+        800228,
+        800229,
+        8002
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

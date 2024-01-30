@@ -1,0 +1,60 @@
+{
+    "author-id": "telstar-util",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAaDQIECBAgQIECBAgQRfGjTi09N_LmgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgKPFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLNiAo1DsWIaFp3YeXlBE07t_PD15cwcHJy04dyBAgQIECBAU1ICjUOxZBomHtlQV9OzZpw7eaBAgQIECBAgQIECBAgQIEBTUgKNQ7FmGpb_KCpl28NmXbh3IECAHM39clPHv6c4WzfrylNSAo1DsWgaRl5ZUGLKgicsOffu5oQdTfu8oECBAgQIECBAU1ICjUOxahpW_duQQtmHdj0YeWRAgB0sq3Lu6aOvPLkQIEBTUgKNQ7FsGp5cO5BC07Nmndn5oECBAgQIECBAgQIECBAgQFNSAo1DsW4aHo5aeaBMgiYe2VBDw8umXkgQIECBAgQIECBAU1ICjUOxcBq-lbG0oKejLl4IECBAgB1N-1BX07NmnDt579xTUgKPVixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLNyAo1DsmIaVv3YemjDuBoumjLKoc-mXkiDUMOzZh3dECBAU1ICjUOyZBomXx0y8k_NBMw4kCBAgQIECBAgQIECBAgQIEBTUgKNQ7JmGg5OWnDuQUMOfKtm6emPRl2bECBAgQIECBAgQFNSAo1Dsmgan0y8NGXcgq89GXkgQIECBAgQIECBAgQIECBAU1ICjUOyahqGXplQR9-zJp3Z0CBAgQIECBAgQIECBAgQIEBTUgKNQ7JsGg7snlBU3792VAgQIECBAgQIECBAgQIECBAgQFNSAo1Dsm4aVl5ZdvlBP75dyBAgQIECBAgQIECBAgQIECBAU1ICjUOycBqfDLux5eSCf3y7kCBAgB0obJgxaIECBAgQIEBTUgKLVixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFyBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "c",
+        "page-no": 80012
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800120,
+        800121,
+        800122,
+        800123,
+        800124,
+        800125,
+        800126,
+        800127,
+        800128,
+        800129,
+        8001
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

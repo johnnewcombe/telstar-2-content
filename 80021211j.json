@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gj|ISmall}letters}are}now}available.\"}|L|1FX|0*}|5Q|0'\"Capital}letters}are}produced}when\"|L|1F|0\"1}|5Q|0\"you}press}a}letter}key}and\"SH$'\"together.\"|L|1F|0,1}|5Q|0'\"For}example,}to}get\";C$;\"h\";W$;\"press}H.\"|L|1F|064}|5Q|0\"To}get\";C$;\"H\";W$;\"press\"FL$;SH$;ST$;\"and}H.\"|L|1F|0;|1H|0}|5R|0SH|L|1G|0l|1R|0}|5R|0SPACE:|5R|0CLEAR|L|1G|0v)}|5R|0DBL(\"To}begin}the}test}....\",10,15)|L|1G|2@|1K|0}|5R|0SPACE|L|1G|4P|1P|0}|5T|0}PLAY}GAME|L|1G|4Z|1R|0}|5C|0}CHAR=1}|3X|0}10|L|1G|5D|1P|0}|4[|0:|5R|0PUTSCORE|L|1HL|04}|5Q|2J|05,5)\"Part}\";PART;\"}}}}}Question}Number}\";CHAR|L|1HV|0,}|5R|0DBL(\"Find\",12,8):E$=|3]|0(|3D|0GENE):|5R|0WAIT(.7)|L|1H|0}|1^|0}|5R|0KCL:|5R|0DBL(E$,17,8):STIM=|2Q|L|1H|04|1[|0}I$=|3_|0(0):|5G|0}I$=\"\"}|2L|0}|2M|0TtH|L|1H|0\u003e\"}ETIM=|2Q|0:IA=|2W|0(I$):|5G|0}IA\u003c33}|2LM|0TtH|L|1H|0H\u0026}|5G|0}IA\u003e122}|2D|0}(IA\u003e90}|2@|0}IA\u003c95)}|2L|0}|2M|0TtH|L|1H|0R.}T|Z102",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "j",
+        "page-no": 80021211
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212110,
+        800212111,
+        800212112,
+        800212113,
+        800212114,
+        800212115,
+        800212116,
+        800212117,
+        800212118,
+        800212119,
+        8002121
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

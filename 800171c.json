@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "c"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBMu               \u001bG408062a   \u001bC  1p\u001bG               \u001bQ\u001bQ\u001bQ\r\n\u001bV        555up`p0x0  k#5pp` 0 #k\r\n\u001bW        5555jh,5j   j 5\u003cnj 5 '#\r\n\u001bV\u001bGFrom \u001bV ##!!\"\"#!\"!  ##!##bs5 ! \u001bGFrom\r\n\u001bBNorwich        \u001bQ\u001bQ\u001bQ/           \u001bBLondon\r\n\u001bC1p\u001bB0\u001bG------ MONDAY-FRIDAY -------\u001bB3\u001bC1p                \u001bQ\u001bQ\u001bQ\u001bQ/\r\n\u001bC1p\u001bB1\u001bG---------\u001bGSATURDAY ---------\u001bB4\u001bC1p                \u001bQ\u001bQ\u001bQ\u001bQ/\r\n\u001bC1p\u001bB2\u001bG----------\u001bGSUNDAY\u001bG----------\u001bB5\u001bC1p                   \u001bQ/\r\n\u001bFInformation    \u001bG   ...       \u001bB\u001bFPress\r\n\u001bFNorwich 20255 \u001bG  ..  ...      \u001bf4/nvw'nn'/nw/.nn6./onnonvNIIIgEUired\u001bV\u001bV\u001bV\u001bQ w####-,,,,,dppzpppppppzupp\r\n\u001bS\u001bS\u001bV\u001bQ  7575\u001bQ#srssp,,, h,, ,, (,, 5\r\n\u001bV\u001bV\u001bQtx p5u5\u001bC=========\u001bQ\"#####     5\r\n\u001bQ,,%\u001bQ55\u001bV\u001bQ\u001bQ8,,0,`,,d($8,d\u001bC======\u001bQ%\r\n\u001bC===\u001bQi!\u001bQ\u001bQ6(,,.p%`0 i:`ppi#ks#'##ip0\r\n  \u001bQh,n \u001bQ\u001bQ5\u001bS\u001bHpppprppzuz t:\u001bI8d\u001bQ 8#)p5\r\n\u001bQpvq\u001bQ:pp\u001bQ)dpp8!)x\u003e;4pp\r\n\u001bT888888888xACCCCCCCCCCCCCCCCCCCC\u001e\u000b                                  \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

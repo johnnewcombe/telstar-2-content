@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 18,
+        "frame-id": "a"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "http://edit.tf/#8:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgYuMKAisWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWIEEWdUi0qkGTOmxZ1RBBnREE2LEkwUCBAgQIECBAgQIECBAgIrFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFiBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQMUCCFChoIs6pFpVIMmdNizqgOpoyoNmHpl59ECBAgQIECAGgQIMu7pl5dMOndty7uiDdl780GHdkQZsuHp15ZeaBAgQIAaBAgzct-1B00ZUEKFDQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAyQIKUWrUi0qaCLOqRaVSDJnTYs6oDpZevTLy5oECBAgQIAaBAg07umXluw9NO_dh2IN2XvzQYc-Xdj8oOHLLzy7unNAgBoECDLu6ZeXTDp3bcu7og3Ze_NBm5b9qDDy39d2RB00ZUCAGgQIM-zfiyrkCBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQM0CCLYoUotOmDh5dmXFzWIOejf3xafSxBUrL6WHJp3oECAGgQIM-Hbp3Z1iDpoy4enLKsQYt-_XzWINvXnpxoMO7IgQIAaBAg27-WVBm5b9qDpoyoIvjhyy8-a5AgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQICKxYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        180,
+        2005,
+        20142,
+        2212,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        18
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

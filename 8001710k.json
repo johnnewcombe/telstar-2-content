@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 8001710,
+        "frame-id": "k"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\r\r\r\u0014\u001bBPresenting Prestel     \u001bG646613a   \u001bC  0p\u001bSh|\r\n\u001bSnn=\u001bB----------------------------4%xt\u001bB----------------------------------\u001bSjb1\u001bB-------------------m--------------\u001bSk+'\r\n\u001bSj\r\n\u001bSj\r\n\u001bSj\r\n\u001bSj\r\n\u001bSj  \u001bG       BERNARD CRIBBINS\r\n\u001bSj\r\n\u001bSj  \u001bG       YOUR S`UP\r\n\u001bSj\r\n\u001bSj\r\n\u001bSj\r\n\u001bSj\r\n\u001bSj\r\n\u001bSj\r\n\u001bSj\r\n\u001bS*/\u001bB||||||||||||||||||||||||||||||||||||",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

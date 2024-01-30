@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "n"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPresenting Prestel     \u001bG646605a   \u001bC  0p\u001bSh|`0\r\n\u001bSk+'\u001bG  WHAT YOU NEED\r\n\u001bSnn=\r\n\u001bSzxt\r\n\u001bSj\"!                    \u001bS \u001bSj\u001bR(((\u001bGa telephone line \u001bS          \u001bSj                      \u001bS \u001bSj                      \u001bSsssssssssss \u001bSj\u001bR(((\u001bGa Prestel TV  -  \u001bS \u001bSj                      \u001bS\u001bG1\u001bS\u001bG2\u001bS\u001bG3\u001bS \u001bSj\u001bG    or an adaptor to\u001bW\u001bS \u001bSj                      \u001bS\u001bG|}\u001bG6\u001bS \u001bSj \u001bG   your present set \u001bS \u001bSj                      \u001bS\u001bG7\u001bS\u001bG8\u001bS\u001bG9\u001bS \u001bSj \u001bG    - with a keypad \u001bS \u001bSj                      \u001bS\u001bG*\u001bS\u001bG0\u001bS\u001bG_\u001bS \u001bSj                      \u001bS \u001bSj\u001bR(((\u001bGand some monesssssssssss \u001bSj                      \u001bS\u001bB PRESTEL \u001bS                          \u001bS///////////// \r\n\r\n\r\n\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

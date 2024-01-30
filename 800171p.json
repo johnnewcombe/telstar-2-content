@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "p"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBWhic          \u001bG3341a     \u001bC  2p\u001bR7#`p`p`z 7ap`p`z\u001bW\u001bT\r\n\u001bR5kjjjjjj 7jjjjjj \u001bT!\"# z\r\n\u001bR##\"#\"#\"# !\"#\"#\"# \u001bT=   ~\r\n\u001bR7#``b`z`p        \u001bT   ####o\r\n\u001bR5kjjjjjj.        \u001bT?!      ~\r\n\u001bR##\"#\"\"#\"#        \u001bT%x4\u001bF \u001bT z\r\n`           \u001bT!    z\r\n\u001bBRESTAUR- \u001bTz\u003e   # \r\n\u001bBAN7+#+?##5    \"\r\n\u001bBAND WINE \u001bT7      `~      k\r\n\u001bBBARS }/ ~}0   \"+\r\n   45!       p~%z}\u001bF \u001bT x\r\n\u001bCO London \u001bTp0\u001bF \u001bT  o|,  \u001bF  \u001bTj\r\n          \u001bT5    `z0+#       \"\r\n\u001bC1 Devon  \u001bT?#!     kx4        *'#/\r\n          \u001bT    p%  \u001bF5\u001bT  \u001bF  6\u001bT\r\n\u001bC5 West   \u001bT}$  `x~7!\u001bF \u001bT         x\r\n \u001bCmidlands\u001bT|}~|~}tp\u001bF    O\u001bT,/o\r\n                  \u001bT     \u001bF \u001bTz\r\n\u001bC6 Norfolk        \u001bT%\u001bF1\u001bTh4`\u003c,tx||\r\n\u001bT                 \u001bTt||~,iu/o\u0002\u0003\u0003\u0003\u0003     \u001bG334104a   \u001bC  2p\u001bR75`p0pp`t`p00``0ppp\r\n\u001bR7kj,%-l 5h,55jj \u003cnj 5j -l\r\n\u001bR!\"\"#!## #\"#!##\" ##\" !\"!##\r\n\u001bBLONDON POSTAL AREAS\r\n\r\n\u001bC1  West End (W1)     6  South East\r\n    47 restaurants\u001bC  \u001bG   5 restaurants\r\n\r\n\u001bC2  West Central      7  North West\r\n    19 restaurants       18 restaurants \r\n\u001bC3  South West        8  North\r\n    5O restaurants       8 restaurants\r\n\r\n\u001bC4  West              9  Richmond\r\n    24 restaur6 restaurants\r\n\r\n\u001bC5  East/East Central O  Other parts\r\n    7\u003cM        8 restaurants\r\n\r\n\u001bB\u001bB\u001bB\u001bB  Key number for the area you want\r\n\u001bALONDON.\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "d"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u001e,4//\u000b+ Living          \u001bG55044a    \u001bC0.6p\u001bR                   ```p0\r\n\u001bR    `xx}+l   xo|/7\u001bQ \u001bQ\u001bH pp0\r\n\u001bR `~%!!!!!!!!!./?#a?   `\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0013j\u00147*\u0014i-\t,'!\u001bR(w    j5/jupb1pp0pp0pp0pp0\r\n\u001bRb=h$  j5pj5j5j5.%/l4.%\r\nwj1  *-/~ZMZMZMZLh$}~  pZ*%\r\n\u001bR(?kh   ~%j7j7j5s{5+%      x5\r\n\u001bRbw\"#  jwpjujuj5z5x4    `~|0\r\n\u001bR(}                +3ot \u001bRbw\u001bG *Key 0 - 1900 to 1911  \u001bR \"%(1\u001bR(w    \u001bC  1 - 1912 to 1923  \u001bR   b$\u001bRbw w    \u001bG2 - 1924 to 1935  \u001bR   (1\u001bR(w`=    \u001bC3 - 1936 to 1947  \u001bR   b$\u001bR\"{G4 - 1948 to 1959  \u001bR   ($\u001bR (t##\u001bF \u001bC5 - 1960 to 1972  \u001bR   ($\u001bRb5z}\u001bG*Key opp. yr birth year\u001bR ($\u001bR(}ot````````               `~$\u001bR  /u +~~~~~~~~~~~xxx?! \u001bR   .   #''''''''''''''''''''''''''''",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

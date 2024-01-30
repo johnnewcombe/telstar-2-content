@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "g"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bAGuinness Superlatives  \u001bG321231a   \u001bC  1p\r\n\u001bFSOCCER - F.A.CUP\r\n\r\n\u001bGFirst held in 1871/2 season (winners\r\n The Wanderers)\r\n\u001bCMost wins: 7 Aston Villa (in 9 finals}inals-11 Newcastle Unitef (won 6)\u001bCAll but 7 winners have been Diwision I \u001bCclubs: 6 fromkK\u001a]W\t?4\u003cLhthampton 1976), \u0026 |am Hotspur \u001bCfrom Southern League in 1901.\r\n\r\n\u001bBYoungest player in a`\u0002\u0005rd\r\n\u001bBKendall (Preston North End) 17 in 1964 \u001bCMost Winners medals: 3 players have won\u001bC5 - James Forrest, Lord Kinnaird, \u0026\r\n\u001bCC.H.R.Wollaston.\r\n\u001bBM=QI\u0005cted tie: Stoke City \u0026 Bury \u001bBin 1954/55 3rd Round - 9 hrs 22 minutes\u001bBof play, with Stoke winning 3`2 in the \u001bBfifth meeting\r\n\u001bFKey _ for a list of Cup Final`",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

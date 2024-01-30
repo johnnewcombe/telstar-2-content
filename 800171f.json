@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "f"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPresenting Prestel     \u001bG646603a   \u001bC  0p\u001bSh|4  \u001bC\r\u001bSn=$\u001bCweather news sports information a\u001bSzu|0\u001bCco\u001bW7################k\u001bChealth prot\u001bSj5s \u001bCpu\u001bW5\u001bBPRESTEL KEYPAD\u001bWj\u001bCshares advi\u001bSk7/!\u001bCha\u001bW5\u003c,,,,\u003c,,lc)insurance d\u001bSj5\u001bCstoc\u001bW55    5     5  \u001bWjj\u001bCmedical adv\u001bSj5\u001bChome\u001bW5-,,,,-,,,,,-,,,.j\u001bClocal newsp\u001bSj5\u001bCtree\u001bW57####7#####7###kj\u001bCfinancial a\u001bSj5\u001bCtele\u001bW55\u001bC1\u001bW\u001bW5\u001bC 2\u001bW\u001bW5\u001bC3\u001bWjj\u001bCcompany\r\u001bSj5\u001bCpets\u001bW55    5     5   jj\u001bCquizzes\u001bS*n=\u001bSj5\u001bCroad\u001bW57####7#####7###kj\u001bCgames h\u001bS*n=\u001bSj5\u001bCfilm\u001bW55\u001bC4\u001bW 5\u001bC 5\u001bW 5\u001bC6\u001bWjj\u001bCrecipes\u001bS*n=\u001bSj5\u001bCgift\u001bW55    5     5   jj\u001bCgovernme\u001bSj5\u001bSj5;Cfood\u001bW57####7#####7###kj\u001bCshopping\u001bSj5\u001bSj5\u001bCcare\u001bW55\u001bC7\u001bW 5\u001bC 8\u001bW 5\u001bC9\u001bWjj\u001bCstatisti\u001bSj5\u001bSj5\u001bCjobs\u001bW55    5     5   jj\u001bCeducatio\u001bSj5\u001bSj5\u001bCrail\u001bW57####7#####7###kj\u001bClaw fact\u001bSj5\u001bSj5\u001bCtoys\u001bW55\u001bC* \u001bW5\u001bC 0\u001bW 5\u001bC_\u001bWjj\u001bCconsumer\u001bSj5\u001bSj5\u001bCpost\u001bW5uppppupppppupppzj\u001bCtoasters\u001bS   \u001bW-,,,,,,,,,,,,,,,,.\u001bC\r\u001bS\u001e\u000b                              phcc",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

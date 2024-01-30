@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Ge|Iate):\"|L|1A|0\"#}|5Q|2J|04,12);:|5G|0}|3L|0}|3D|0DATEOK(2)}|2L|0}|2M|0TbA|L|1A|0,$}Y2=Y:M2=M:D2=D:LAPSE=|3D|0TIMELAPSE|L|1A|06}}|5G|0}LAPSE\u003c0}|2L|0}|5R|0ERROR(9):|5E|2M|0dH@|L|1A|0@\"}|5G|0}LAPSE\u003c10}|2L|0}|5R|0ERROR(10):|5E|2M|0dH@|L|1A|0J2}|5Q|2J|00,18);\"Elapsed}days}since}birth}....\";LAPSE|L|1A|0T|1K|0}|5R|0SPACE|L|1A|2P|1V|0}A%=23:B%=28:C%=33|L|1A|2Z|1P|0}D%=LAPSE-!0|L|1A|3D|0!}E%=100:F%=1100:I%=(F%-E%)/20|L|1A|3N|1W|0}X%=500:Y%=450:Z%=1|L|1A|5J|1J|0}|5E|2M|0tDC|L|1C|0}!}|5G|0}|2_|0\u003c\u003e17}|2L|0}|5V|0:|5Q|0\"}in}line}\";|2^|0:|5@|L|1C|0*|1I|0}Z%=2|L|1C|2D|1O|0}|4W|0}\"BPART2\"|L|1C|5H|1L|0}|4]|5R|0INTRO|L|1C|5M|1I|0}|4[|0:|5Q|0'|L|1C|5R|0*}|5Q|0\"}}}}Some}people}believe}that}human\"|L|1C|5\\|0)}|5Q|0\"temperament}and}behaviour}seem}to\"|L|1DF|0/}|5Q|0\"follow}predictable}becurring}patterns.\"'|L|1DP|0-}|5Q|0\"}}}}These}patterns,}'BIORHYTHMS',}can\"|L|Z058",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "e",
+        "page-no": 80021226
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212260,
+        800212261,
+        800212262,
+        800212263,
+        800212264,
+        800212265,
+        800212266,
+        800212267,
+        800212268,
+        800212269,
+        8002122
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

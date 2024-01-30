@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 90,
+        "frame-id": "a"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "exit",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "[b][m-]\r\n      Thankyou for using[Y]TELSTAR.\r\n    You were connected to[Y][SERVER].\r\n\r\n[b][m-]\r\n                   \u001bBT                                    \u001bBT\u001bAE\u001bFL                                \u001bBT\u001bAE\u001bFL\u001bDS\u001bGT                            \u001bBT\u001bAE\u001bFL\u001bDS\u001bGT\u001bEA\u001bCR                            \u001bFL\u001bDS\u001bGT\u001bEA\u001bCR                                \u001bGT\u001bEA\u001bCR                                    \u001bCR                                                           \r\n",
+        "type": "markup"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        990,
+        990,
+        990,
+        990,
+        990,
+        990,
+        990,
+        990,
+        990,
+        990,
+        990
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

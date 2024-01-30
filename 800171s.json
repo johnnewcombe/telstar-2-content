@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "s"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPresenting Prestel     \u001bG646607a   \u001bC  0p\u001bSh|`0\r\u001bSk+'\u001bG       WHATgS ON PRESTEL\r\u001bSnn=\u001bBaccident accommodation adoption ag\u001bSzxt\u001bBairlines amusements angling antiqu\u001bSj\"!\u001bBart astrology babies baldness bank\u001bSj\u001bBbetting biographies boating books br\u001bSj\u001bBbuilders buses butchers cabarets caf\u001bSj;Bcars catering classified commodities\u001bSj\u001bBcompa\u001bW\u003c,,,,,,,,,,,,,,,,,,,,,,l\u001bBdit c\u001bSj\u001bBdatab\u001bW5\u001bG                    \u001bWj\u001bBivorc\u001bSj\u001bBdrugs\u001bW5\u001bGat present there are\u001bWj\u001bBdia e\u001bSj\u001bBenerg\u001bW5\u001bG50,000  pages on the\u001bWj\u001bBs exp\u001bSj;CAcystem  provided  by\u001bWj\u001bCASLIB\u001bSj\u001bCAusti\u001bW5\u001bG170 organisations.  \u001bWj\u001bCBARIC\u001bSj\u001bCBenn \u001bW5\u001bG                    \u001bWj\u001bCBerni\u001bSj\u001bCBirmi\u001bW-,,,,,,,,,,,,,,,,,,,,,,.\u001bCdical\u001bSj\u001bCBritish Airways British Insurance As\u001bSj\u001bCBritish Library Caxton Publishing Co\u001bSj\u001bCCentral OvOVW\u001e-K\u0016}#*-\u001bCConsumers Association Cosmos Council\u001bSj\u001bCDataStream Eastel Economist EMI Audi\r\r\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

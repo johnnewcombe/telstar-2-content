@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "m"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bFSTOCK EXCHANGE         \u001bG520020a   \u001bC2.0xLh       CLOSE\r\nB.P.        \u001bG 1038   58,4,2,4,\r\nBURMAH          88   \u001bF9 90 1\r\nCHARTERHALL     31   \u001bF\\\r\nKCA INTL.       34\r\nLSMO \u0003\u0003\u0003#K\u0002\u0002\u0003\u0003WnkJ\u001d\u0014h#4\u0026q!.\u000eJ*234   \u001bF6\r\nPREMIER CONS    20\\\r\nRYL.DU|\u0003#3\u0001\u0003\u00037e\u0002\u00055e\u0002%4\u000e\u000e  653   \u001bF5 8 60 3\u001bA1 58 6\r\nTRICENTROL     192   \u001bF3\u001bA2\r\nULTRAMAR       262   \u001bF7 70 1\u001bA0 67 6 5\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b\u001e\u000b                                        \r\n\r\n\u001e\u000b\u001bB*",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

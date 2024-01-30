@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gf|IP|0}|4W|0}\"BIORTHM\"|L|1C|5H|1J|0}|4]|5R|0MAP|L|1C|5R|1N|0}|5O|026:|4[|0:|5Q|0''|L|1C|5\\|1O|0}|5C|0}I=3}|3X|0}23|L|1DF|0\"}|5Q|0Y$;W$;|3]|0(\u002696);\"55\";Y$;|2J|027);R$|L|1DPF|0}|5M|L|1DZS|0}|5C|0}I=3}|3X|0}21}|2H|0}2|L|1D|0$.}|5Q|2J|028,I);\"}x}\";|2J|028,I+1);\"x\";|3]|0(255);\"~x}}x\"|L|1D|0.|1_|0}|5Q|2J|033,I+2);\"x\";|3]|0(255);\"~x\";|L|1D|08|1F|0}|5M|L|1D|0L|1]|0}|5C|0}I=13}|3X|0}15:|5Q|2J|030,I);\"}}\"|L|1D|0V|1F|0}|5M|L|1D|0`H}|5Q|2J|030,14);\"THIEVES\";|2J|031,13);\"TT\";|2J|031,15);\"T\";|2J|032,16);\"T\";|2J|032,17);\"T\"|L|1D|3P|06}|5Q|2J|00,23);\"}}}DYKE}}}}}}}}VILLAGES}}}}}}MOUNTAINS\";|L|1D|3Z|1Z|0}|5C|0}V=1}|3X|0}3:|5R|0VDRAW(V):|5M|L|1ESF|0}|5A|L|1E|4\\|1O|0}|4]|5R|0VDRAW(V)|L|1E|5F|0\u003c}|5Q|2J|0VX(V)-2,VY(V));V$;\"^\u0026\";Y$|2J|0VX(V)-2,VY(V)+1);V$;\"\u0026^\";Y$|L|1F|0?|1F|0}|5A|L|1G|4P|1S|0}|4]|5R|0INSTRUCTIONS|L|1G|4Z|1Q|0}|5R|0YELLOW:|5Q|0'''|L|1G|5D|0\\}|5Q|Z058",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "f",
+        "page-no": 80021225
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212250,
+        800212251,
+        800212252,
+        800212253,
+        800212254,
+        800212255,
+        800212256,
+        800212257,
+        800212258,
+        800212259,
+        8002122
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

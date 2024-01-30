@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gk|I240}IF}X\u003eE}THEN}PRINT\"ONLY}GOT\";E:GOTO}1230|L|1J|01250}E=E-X:Y=K:FOR}I=0}TO}7:IF}K3(I)\u003c=0}THEN}1310|L|1J|01260}H=X/(Y*(FND(0)^.4)):K3(I)=K3(I)-H|L|1J|01270}E$=\"KLINGON}AT\":N=K3(I):GOSUB}610|L|1J|01280}IF}K3(I)\u003e0}THEN}1310|L|1J|01290}PRINT\"**KLINGON}DESTROYED**\"|L|1J|01300}K=K-1:K9=K9-1:S(K1(I),K2(I))=1:Q(Q1,Q2)=Q(Q1,Q2)-100|L|1J|01310}NEXT:IF}K9\u003c1}THEN}1480|L|1J|01320}GOTO}1170|L|1J|01330}I=2:IF}D(I)\u003e0}THEN}700|L|1J|01340}PRINT}D$(I);\"}FOR}QUADRANT\";Q1+1;\"-\";Q2+1|L|1J|01350}FOR}I=Q1-1}TO}Q1+1:FOR}J=Q2-1}TO}Q2+1:PRINT\"}}}\";|L|1J|01360}IF}I\u003c0}OR}I\u003e7}OR}J\u003c0}OR}J\u003e7}THEN}PRINT\"***\";:GOTO}1430|L|1J|01370}Q(I,J)=ABS(Q(I,J)):GOTO}1420|L|1J|01380}I=5:IF}D(I)\u003e0}THEN}700|L|1J|01390}PRINT\"CUMULATIVE}GALACTIC}MAP}FOR}STARDATE:\";T|L|1J|01400}FOR}I=0}TO}7:FOR}J=0}TO}7:PRINT\"}}\";|L|1J|01410}IF}Q(I,J)\u003c0}THEN}PRINT\"***\";:GOTO}1430|L|1J|01420}E$=STR$(Q(I|Z105",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "k",
+        "page-no": 80022
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800220,
+        800221,
+        800222,
+        800223,
+        800224,
+        800225,
+        800226,
+        800227,
+        800228,
+        800229,
+        8002
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

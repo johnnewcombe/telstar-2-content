@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "r"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBWhich?                 \u001bG334103991a\u001bC  2p\u001bR7%` 05x0pp`p2pp \"7k`p051ppjp0x0\r\n\u001bR3kj 55j \u003cnj 5-l  5jj,%555jj 5j\r\n\u001bR##\"#!!\"!##\" !## \"##\"#!!!s{\" !\"!\r\n\u001bB3O1 Upper Street, N1       O1-226 8346 \r\n Kebab house with good meze and\r\n charcoal-grilled meats. Slow service.\r\n Recorded musicn\r\n\r\n\u001bFMEALs: 12-3,      CLOSED: Sun L;Chr \u0026\r\n\u001bF6-12.3O           Boxing Day;Easter Sun\u001bFMust book D\r\n\r\n\u001bFAlc #2.8O (meal #4.65) Service 1O%.\r\n\r\n No dogs. Seats 7O (parties 2O).\r\n\r\n\r\n\r\n\u001bBKey  9 for London GFG index\r\n\u001bC    \u001bBO for TeleWhich? indVn6\\n6TQNONDON. RESTAURANTS\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

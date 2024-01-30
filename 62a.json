@@ -1,0 +1,60 @@
+{
+    "author-id": "",
+    "connection": {
+        "address": "fish.ccl4.org",
+        "mode": "viewdata",
+        "port": 23
+    },
+    "content": {
+        "data": "[G]You are about to connect to[W]CCL4.\r\n[G]Prepare yourself for Viz-type humour.\r\n\r\n\r\n[W]Exiting the Gateway service will\r\n[W]return you to Telstar.\r\n\r\n[G]The DLE character (Ctrl P), where\r\n[G]keyboards support it, can also be\r\n[G]used to return to Telstar.",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "gateway",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 62
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        6
+    ],
+    "title": {
+        "data": "[b][m-][g[   Telstar Gateway]][b][h-]\r\n",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

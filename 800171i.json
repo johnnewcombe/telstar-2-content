@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "i"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bGFamily Living          \u001bG55030a    \u001bC0.6p                     ~#:\u001bR                              \u001bR    \r\n                               \u001bR##  \r\n\u001bR    j#5j 55'k                  pppp\r\n\u001bR    j 5j 557c      x\u0003\u0003\u0003\u0003\u0003{////\r\n\u001bR    \"##\"#!!##                  \r\n    \u001bC(Suitable for 9-14 year\u001bR\r\n     \u001bColds)\u001bR               `\r\n\r\n\r\n     1. Between 1649 and 1660 England\r\n        had no king but was ruled by a\r\n        Lord Protector whose name was:\r\n\r\n   \u001bC    KEY 1\u001bGGeneral Monk\r\n  |#T\u003cZZjKW_VL\u001bC    3\u001bGOliver Cromwell\r\n           \u001bC4\u001bGWilliam Pitt\r\n\r\n         \u001bC  5\u001bFChildren's Corner Index\r\n \u001bC          0\u001bGFamily Living Index",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

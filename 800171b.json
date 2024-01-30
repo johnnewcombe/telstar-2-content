@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "b"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBMeorological Office   \u001bG20904a    \u001bC0.   \u001bBREPORTS OF ACTUAL\u001bS\u001bS  p\r\n\u001bT`0\u001bR jjj`p0pp`tjp0pp`0   \u001bS(0(b( 8 \u001bV`\u00268a\u00268!\u001bR  jjjj,%\u003cn 5j 5=.j   \u001bS(`b~v`(\u001bV!\" !   \u001bR  \" !##\"    \u001bS \"####\r\n\u001bR#######################################\u001bB0\u001bFRegions of the UK|PzW\\\u001eh_t=LhEn\u001f\u001eW_\u001b4V=+\r\n\u001bCSUMMARIES\r\n\u001bB3\u001bFSeaside \u0026 other coastal resorts `\r\n\u001bF     previous 24 hours 6pm\r\n\u001bB4\u001bFWhole of UK for previous day\r\nJ (on MAFF regions)\r\n\r\n\u001bB5\u001bFHighest \u0026 lowest weather values\r\n\u001bF     of the day                   \u001bC(2p)\r\n\u001bC9\u001bGMtailed reports \u0026 summaries\r\n   including ` Scottish ski reports \u0026\r\n   descriptive summaries of }!er\r\n   (0.5p routeing to 5p frames)\u001e\u000b                                        \r\n\r\n\u001e\u000b\u001bB*",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

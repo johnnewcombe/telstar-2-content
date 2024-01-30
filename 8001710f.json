@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 8001710,
+        "frame-id": "f"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\r\r\r\u0014\u001bCIPC Viewdata           \u001bG45678a    \u001bC  1p\u001bAWoman \u0026 Home\r\n\u001bW7#55p0p0 00p000p0 u%1t p0u0p0p0\r\n\u001bW7#!5\u003c555 5555555! 5555 5155=%55\r\n\u001bS!  !#!!! s5#!#!!  !!!#a#!!!#!!!!!!!!!!!\n\u001bC First you must decide what sort of\r\n\u001bC kitchen you have:\r\n\n\u001bC Look at the longest unbroken run of\r\n\u001bC wall in your kitchen\r\n\n\u001bC Now ` is your kitchen :`\r\n\u001bW 0 0\r\n\u001bW 5 5SHAPED\u001bG?   then, press\u001bB1\r\n\u001bW ##!\r\n\u001bS     5  SHAPED\u001bC?   then, press \u001bB2\r\n\u001bS     up}    \u001bV    5 5 SHAPED\u001bF?   then, press \u001bB3      \u001bV    5 5\r\n\n\u001bC for our suggested layout...\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

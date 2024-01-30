@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gg|I|0\"The}kingdom}is}three}villages.}It\"'\"is}between}the}Yellow}River}and\"'\"the}mountains.\"|L|1G|5N|2[|0}|5Q|0'\"You}have}been}chosen}to}take\"'\"all}the}important}decisions.}Your}\"'\"poor}predecessor}was}executed}by\"'\"thieves}who}live}in}the}nearby\"'\"mountains.\"|L|1G|5X|2F|0}|5Q|0'\"These}thieves}live}off}the}\"'\"villagers}and}often}attack.}The\"'\"rice}stored}in}the}villages}must\"'\"be}protected}at}all}times.\"|L|1H|0*|1K|0}|5R|0SPACE|L|1H|04|1J|0}|4[|0:|5Q|0''|L|1H|0\u003e|3A|0}|5Q|0\"The}year}consists}of}three}long}\"'\"seasons,}Winter,}Growing}and\"'\"Harvest.}Rice}is}planted}every\"'\"Growing}Season.}You}must}decide\"'\"how}much}is}planted.\"|L|1H|0H|3E|0}|5Q|0'\"The}river}is}likely}to}flood}the\"'\"fields}and}the}villages.}The}high\"'\"dyke}between}the}river}and}the\"'\"fields}must}be}kept}up}to}prevent\"'\"a}serious}flood.\"|L|1H|0R|4D|0}|5Q|0'\"The}people}live}off}|Z055",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "g",
+        "page-no": 80021225
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212250,
+        800212251,
+        800212252,
+        800212253,
+        800212254,
+        800212255,
+        800212256,
+        800212257,
+        800212258,
+        800212259,
+        8002122
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

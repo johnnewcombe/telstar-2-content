@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 8001710,
+        "frame-id": "d"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\r\r\r\u0014\u001bCEASTEL                 \u001bG408051a   \u001bC  1p       \u001bQ|\r\n       \u001bQ\r\n \u001bWj#5  \u001bQ/\r\n\u001bQ\u001bVj u7k 5jj#575jj 57%\r\n\u001bW j,55j 5jj,57kjj 53k  ;AJAN 21 ` FEB 18.\u001bQ\u001bVj 5##!##\" !!\"\"\"#!##\r\n   \u001bI   \u001bQ;GAspects are good today.A warm-   hearted relationship contributes to\r\n   making this a happy day.You will be\r\n   in a sensitive frame of mind,more so        \u001bQ\u001bG                 than usual.\r\n       \u001bQ            \u001bG    \u001bC\r\n ;W7k   \u001bQ/\r\n\u001bQ\u001bR5jjj+ 7%j#j+\r\n\u001bW =.jb#55`j#b#5        ;AFEB 19 ` MAR 20.\u001bQ\u001bR5 \"\"#!##\"#\"#!\r\n       \u001bQ\u001bGIt's your turn today to set\r\n   the pace,and satisfaction wit\n   way things yg gives you a\r\n   boost.Future plans look rosy,so why\r\n       \u001bQ\u001bG              not celebrate.\r\n  \u001bFPress 0 to return to Horoscope index.\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

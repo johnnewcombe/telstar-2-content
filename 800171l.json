@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "l"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014;FSTOCK EXCHANGE         \u001bG5209a     \u001bC0.5p\r\n\u001bFMAIN INDEX TO PRICE INFORMATION SERVICE\u001bF------------------------------KK\u0019CKey 0 for Gilt`edged securities\r\n\u001bF    1     Overseas and Unquoted\r\n\u001bC    2     Food, Drink and Tobacco\r\n\u001bC         \u001bCEntertainment and Catering\r\n\u001bF    3     Paper and Publishing\r\n\u001bF          Textiles and Stores\r\n\u001bC    4     Chemicals and Oils\r\n\u001bC          Building and Construction\r\n\u001bC          Motors and Distributors\r\n\u001bF    5     Electrical and Engineering\r\n\u001bC    6     Miscellaneous\r\n\u001bF    7     Banks, Insurance, Shipping\r\n\u001bF          Financial and H.P.\r\n\u001bF          Investment Trusts\r\n\u001bC    8     Property\r\n\u001bC          Mining and Commodities\r\n\u001bFKey 9 for details of other Stock\r\n\u001bF          Exchange pages on Prestel",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

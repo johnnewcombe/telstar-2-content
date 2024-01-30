@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gg|I|5R|0S(\"MOVE}72,50}}}move}cursor\"):|4_|0192,50:|5R|0S(\"DRAW}192,50}}}draw}bat\"):|5P|069,80,140:|5R|0S(\"PLOT}69,80,140}}}draw}a}point}at}80,140\"):|5P|069,84,140:|5P|069,84,144:|5P|069,80,144:|5R|0S(\"Add}three}more}to}make}a}ball\")|L|1I|4D|0Y}|5G|0}F%}|2L|4[|0:|5Q|2J|08)\"Now}the}game}begins....\"'\"}Press}Z}to}move}left,}X}to}move}right\":|5R|0SP:|4[|L|1J|0(|1T|0}|5O|026,29,0;128;:|5A|L|0#|5P|1I|0}|4]|5R|0YN|L#|5Z|1J|0}Y%=-1|L$|1D\\|0}X%=|3E|0:|5G|0}X%=13}|2@|0}Y%\u003e=0}|2L|5A|L|0$|1N|0\"}X%=X%|2@|0\u0026DF:|5G|0X%\u003c\u003e78|2@|0X%\u003c\u003e89|2LM|0TDd|L$|1XU|0}Y%=1:|5G|0X%=78|2L|0Y%=0|L$\"|1S|0}|5Q|3]|0X%;|3]|08;:|5E|2M|0TDd|L|5_|F|Z023",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "g",
+        "page-no": 80021217
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212170,
+        800212171,
+        800212172,
+        800212173,
+        800212174,
+        800212175,
+        800212176,
+        800212177,
+        800212178,
+        800212179,
+        8002121
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

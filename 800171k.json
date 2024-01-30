@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "k"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPresenting Prestel     \u001bG646604a   \u001bC  0p\u001bSh|\r\u001bSnn=\u001bGWHAT IS PRESTEL?        \u001bT\u001bTpppppppp\u001bSzxt                        \rL#*-b1\u001bS///////////////////// \u001bQ\u001bT\u001bSk+'\u001bSj##########cB|\u001bS \u001bQ\u001bT      \u001bSj \u001bS\u001bSj\u001bGPREStelephU\u0002\u00030u  \u001bT      \u001bSj  \u001bSj\u001bBPRESTEL       \u001bS5h|\u001bS  \u001bTbssss1\u001bSj  \u001bSj\u001bGPREStelevision\u001bS5  \u001bS  \u001bT(,,,,$\u001bSj  \u001bSj               \u001bS5h|\u001bS  \u001bT\"####!\u001bSj \u001bS\u001bSj\u001bGfor business \u001bW\u001bS5     \u001bT\u001bSj  \u001bSj\u001bGinformation  \u001bW\u001bS5555  \u001bTn\u001bA\u001bC\u001bT\u001bSj  \u001bSj     \u001bG \u001bBpress 1\u001bS5555  \u001bTssssssss\u001bSj  \u001bSjpppppppppppppppp5     \u001bT  \u001bH\u001bH,\u001bI\u001bSj \u001bW\u001bS|||||||||||||||||||||  \u001bT////\u001bSj          \u001bR  (              \u001bT||||\u001bSj         \u001bR   b              \u001bTpuzp;Sj\u001bGPrestel sends information  \u001bD||||||||\u001bSj\u001bGfrom a computer  over the  \u001bTssssssss\u001bSj\u001bGphone to  your television   44m            \u001bRb``````````````````b\r\u001bS            \u001bR\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

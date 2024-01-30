@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 8001710,
+        "frame-id": "j"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\r\r\r\u0014\u001bBPresenting Prestel     \u001bG646612a   \u001bC  0p\n\u001bG         GLOSS TERMS\r\n\n\u001bC)\u001bVj\u001bH\u001bC(((\u001bITeletext\u001bG.........information \u001bV  h    \u001bG\u001bGcarried \"piggyback\" over the\r\n\u001bV  $$\u001bG    broadcast signal on tYll#\u0012h#8~is the name of the BBC\u001bV 2\"\"0           \u001bGteletext service.\r\n \u001bCOracle\u001bG is the name of the IBA\u001bB                \u001bGte|ervice.\r\n\n\u001bS hzu4\u001bB...Viewdata\u001bG.........information \u001bS hzu4\u001bB..\u001bGcarried by the telephone line  \u001bShzu4\u001bB. \u001bGto your TV set.\r\n  \u001bSj5\r\n  \u001bSj5    \u001bBPrestel\u001bGis the name of the  PO  \u001bSj5\u001bG            viewdata service.4\u0003S\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003%IMt public viewdata \u001bS  j5            \u001bBservice in the world. \u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

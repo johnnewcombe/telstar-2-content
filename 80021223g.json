@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gg|IA|1@@|2A|1DA|0~|1@@|}@A|0h|1@@|0~|1@A|0{|1@@|0z|1@A|0~|1@@|0{|1@A|0~|1@@|2@|1DA|2B|1@@|2E|1@A|2F|1@@|2B|1@A|2_|1@@|2C|1@A|2B|1@@|2@|1DA|0~|1@@|0~|1@A|0a|1@@|0~|1@A|0x|1@@|E@A|0|1@@|0~|1@A|0|1@|0A|2@|1D|0A|2C|1@@|2E|1@A|2E|1@|0A|2C|1@@|2B|1@A|2U|1@@|2B|1@A|2H|1@@|2B|1@A|2C|1@@|2@|1DA|}@@|0~|1@A|0x|1@@|0~|1@A|0k|1@@|0~|1@A|0|1@@|E@A|}@|0A{|1@@|0|1DA|2A|1@|0A|2E|1@@|2F|1@A|2Y|1@@|2B|1@A|2M|1@@|2@|1DA|0s|1@@|0~|1@A|0e|1@@|0w|1@A|0~|1@@|2A|1DA|2A|1@@|2H|1@A|2E|1@@|2B|1@A|2U|1@@|2B|1@A|2M|1@|0A|2@|1D@|0~|1@A|0u|1@@|0~|1@A|0k|1@@|0~|1@A|0z|1@@|0{|1@A|0~|1@@|0|1DA|2C|1@@|2E|1@A|2E|1@@|2C|1@A|2C|1@@|2D|1@A|2C|1@@|2B|1@A|2J|1@@|2B|1@A|2H|1@@|0|1DA|0y|1@@|0~|1@A|0w|1@@|0~|1@A|0y|1@@|0~|1@A|0|1@@|E@A|0{|1@@|0{|1@A|}@@|2@|1DA|2D|1@@|2C|1@A|2F|1@@|2E|1@A|2J|1@@|2B|1@A|2H|1@@|2B|1@A|2G|1@|0A|2D|1@@|2@|1DA|0|1@@|E@A|0z|1@@|0~|1@A|0y|1@@|0~|1@A|Z073",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "g",
+        "page-no": 80021223
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212230,
+        800212231,
+        800212232,
+        800212233,
+        800212234,
+        800212235,
+        800212236,
+        800212237,
+        800212238,
+        800212239,
+        8002122
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "h"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBMills \u0026 Allen          \u001bG4802541a  \u001bC  1p\u001bTbs1\u001bAWINTER RECIPES by MARION ELLIS\r\n\u001bT(,$\u001bGFRENCH APPT\r\n\u001bQ\u0026p)\r\n\u001bQd#8\u001bGMake a swee pastry by adding \u001bT(,$\u001bG1o\u0015I[ugar and one egg to a\r\n\u001bTbs1\u001bGbasic shortcrust.\r\n\u001bT(,$\u001bGLine the dish wth thinly sliced\r\n\u001bQ\u0026p)\u001bGeating apples.\r\n\u001bQd#8\u001bGCaramelise 3oz sugar with 1oz\r\n\u001bT(,$\u001bG~[le water.\r\n\u001bTbs1\u001bGPour the caramel over the apples\r\n\u001bT(,$\u001bGand cover with flan pastry.\r\n\u001bQ\u0026p)\r\n\u001bQd#8\u001bGBake 30 mins at 400F.\r\n\u001bT(,$\u001bGTurn out upside down to serve.\r\n\u001bTbs1\u001bGEat this either hot or cold.\r\n\u001bT(,$\u001bGIt is delicious with cream.\r\n\u001bQ\u0026p)\r\n\u001bQd#8\u001bFDon't forget you can put the phone \u001bT(,$\u001bFdown and still hold the text on the\u001bTbs1\u001bFscreen for as long as you need it. \u001bT(,$\u001bG           \u001bBFOR OTHER MENUS press 0",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

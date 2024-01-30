@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gi|Iputer}into}a}simple}calculator.\"'|L|1W|2N|0/}|5Q|0''\"}}}}}}The}program}makes}available}the\"|L|1W|2X|0+}|5Q|0\"}}}keys}1}-}0}and}the}full}stop}key\"|L|1W|3B|1^|0}|5Q|0\"}}}to}enter}numbers.\"''|L|1W|3L|0+}|5Q|0\"}}}}}}The}keystrokes}+,}-,}*,}/}are\"|L|1W|3V|0A}|5Q|0\"}}}used}for}the}operations}of\"'\"}}}addition,}subtraction,\"|L|1W|4@|09}|5Q|0\"}}}multiplication}and}division\"'\"}}}respectively.\"|L|1W|4J|1K|0}|5R|0SPACE|L|1W|4T|1L|0}|5R|0SCREEN|L|1W|4^|0O}|5Q|0'\"}}}}}}The}calculator}operates}in\"'\"}}}algebraic}mode,}that}is,}you}can\"|L|1W|5H|0B}|5Q|0\"}}}type}in}an}expression}just}as}you\"'\"}}}would}write}it.\"'|L|1W|5R|0L}|5Q|0\"}}}}}}However,}multiplication}and\"'\"}}}division}take}precedence}over\"|L|1W|5\\|0@}|5Q|0\"}}}addition}and}subtraction,}so}that\"'\"}}}for}example}:\"'|L|1XF|05}|5Q|2I|0(10)\"3/4+5*7.1-6/.2\"''|2I|0(8)\"is}interpreted}as\"'|L|1XP|0}}|5Q|2|Z124",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "i",
+        "page-no": 80021213
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212130,
+        800212131,
+        800212132,
+        800212133,
+        800212134,
+        800212135,
+        800212136,
+        800212137,
+        800212138,
+        800212139,
+        8002121
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

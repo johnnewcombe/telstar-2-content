@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 8001710,
+        "frame-id": "g"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\r\r\r\u0014\u001bCIPC Viewdata           \u001bG456783a   \u001bC  1p\u001bAWoman \u0026 Home\r\n\u001bR0 0\u001bSp0u0p0p0p0p5 u$1t p0u0p0p0\r\n\u001bR5 5\u001bS-455\u003c555=%55 5555 5155=%55\r\n\u001bR! !\u001bW#!!!#a7!#!#! !!!#!#!!!#!!!!!!!!\r\n OUR SUGGESTED LAYOUT\r\n\u001bR           \u001bF\r\n\u001bR\u001bG          \u001bF    ;GCOLOUR CODE:\u001bR\u001bG          \u001bF\r\n\u001bE\u001bG          \u001bW    \u001bB\u001bB= UNIT\r\n\u001bE           \u001bW\r\n\u001bE           \u001bR|||||    \u001bA = COOKER \u001bR           \u001bR/////    ;A\r\n\u001bR           \u001bA\r\n\u001bR           ;A   \u001bC\u001bE = FRIDGE \u001bR\u001bF     `   \u001bC\u001bE\r\n\u001bR            \r\n\u001bR           \u001bR    ;F = WASHING   \u001bB                       \u001bF   MACHINE\u001bB1\u001bGMAKING A PLAN           \u001bWpp\r\n                           \u001bW/j*Lh]LIANCES\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

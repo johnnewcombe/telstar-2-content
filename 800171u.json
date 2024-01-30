@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "u"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bFWH Smith         `     \u001bG40066a    \u001bC0.5p\u001bS\u001bSb15p`p0p`p0x0ppj\r\n\u001bS  55jj(%5j 5j 5.j\u001bWOFFERS MORE\r\n\u001bS  !##\"##!\"#!\"!###\r\n\r\n\u001bCSpain's\u001bGIBEROTEL\u001bCchain has 25 hotels in\u001bCprime locations throughout the Spanish ;Cmainland, Canary and Balearic Isles.\r\n\r\n Excellent food, service and amenities. \r\n;CHotels onfer both daytime and ewening\r\n\u001bCen|/\u0017\u001axopular resorts\r\n\u001bCand in the away`from`it`all places.\r\n\r\n\r\n\u001bGHOTEL LOCATIONS\u001bBkey for further details Majorca         \u001bB    \u001bB1\u001bW7#############k Minorca \u0026 Formentera \u001bB2\u001bW5\u001bB0 for tour \u001bWj Canary Islands, Ibiza\u001bB3\u001bW5\u001bBoperators \u001bW j Spanish Mainland     \u001bB4\u001bWupppppppppppppz\r\n\u001bBBOOK YOUR IBEROTEL THROUGH W.H.SMITH\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

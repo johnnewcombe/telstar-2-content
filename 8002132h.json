@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gh|I|1B|0l)|5Q|2J|06,19)|3]|0132\"Press}space}bar}to}play.\"|L|1B|0v|1K|5U]|3^|0=\"}\"|L|1B|2@|1E|5A|L|1B|2J|0}|5T|0***************************|L|1B|2T|0}|5T|0***************************|L|1B|2^|1_|4]|5R|0win:|5R|0clear:|4T|0\u002611,2,100,121|L|1B|3H|0$|5T|0}This}responds}to}a}win}or}draw|L|1B|3R|0;|5G|0}turn%=42}|2@|0}win%\u003c\u003e99}|5Q|2J|012,27)\"Honourable}}draw!\":|5E|2M|0dPB|L|1B|3\\|07|5G|0}go%=0}|5Q|2J|014,27)\"Yellow}wins!\"|2K|0}|5Q|2J|016,27)\"Red}wins!\"|L|1B|4F|1K|0*FX15,1|L|1B|4P|0\u003c|5Q|2J|05,30)\"Press}space}bar}to}play}again.\":|5G|0}|3^|0=\"}\"|2LM|0dZB|2K|4[|0:|5@|L|1B|4Z|1E|5A|L|1B|5D|0}|5T|0***************************|L|1B|5N|0}|5T|0***************************|L|1B|5X|1Z|4]|5R|0clear:|5Q|2J|00,27);|2I|0(120)|L|1CBE|5A|L|1CL|0}|5T|0***************************|L|1CV|0}|5T|0***************************|L|1C|0}|1J|4]|5R|0turn|L|1C|0*9|5T|0}This}displ|Z119",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "h",
+        "page-no": 8002132
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80021320,
+        80021321,
+        80021322,
+        80021323,
+        80021324,
+        80021325,
+        80021326,
+        80021327,
+        80021328,
+        80021329,
+        800213
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

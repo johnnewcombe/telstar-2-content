@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "x"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPrestel                ;G17918a    \u001bC0.5p\r\n\u001bBEMPLOYMENT\r\n\r\n\u001bR7######################################\u001bR!\r\n 1 NEW OPPORTUNITY PRESS\u001bB\u001bC0.5p\u001bBGraduate    \u001bBcareers\r\n 2 PEAT MARWICK MITCHELL\u001bCFree\u001bBExec.jobs  3 CENTRAL STATISTICAL OFFICE\u001bC0.5p\u001bB\r\n   \u001bBLabour statistics\r\n\u001bG4 MILLS \u0026 ALLEN\u001bC2p  \u001bBLabour law\r\n\u001bG5 PROFESSIONAL \u0026 EXEC.RECRUITMENT\u001bCFree    \u001bBJobs available,changing your job\r\n\u001bGERS \u0026 OCCUPATIONAL INFORMATION\r\n   CENTRE\u001bC0.5p\u001bBGuidance on careers\r\n\u001bG7 EASTEL 408\u001bC0.5p\u001bBClassified adverts\r\n\u001bR4 \u001bBfor jobs\r\n\u001bR!\r\n\u001bR7!pp0ppj`p00``pp`p0pp`t\r\n\u001bR7!5555jjj 55jjjjj,%5j 5\r\n\u001bR#!!!!7#\"\"#!s{\"\"\"\"#!!\" #\u001bR###############\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

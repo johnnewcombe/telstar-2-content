@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "v"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPres Prestel     \u001bG646v08a   \u001bC  0p\u001bSh|\r\n\u001bSzxt \u001bGWHERE YOU START\r\n\u001bSjb1\r\n\u001bSk+' \u001bWppppppppppppppppppppppppppppppppp\u001bSnn= \u001bW5                              ;Wj\u001bSj  \u001bW 5               \u001bG  Preste|Wj\u001bSj   \u001bW5                              \u001bWj\u001bSj   \u001bW5\u001bGJobs                    17918\u001bWj\u001bSj   \u001bW5\u001bGJob \u0003entres               181\u001bWj\u001bSj | \u001bW5\u001bGJockeys Tables             12\u001bWj\u001bSj(.\u001bW5\u001bGJournals         p|lNM#-#*-(.\u001bW5\u001bGJourneys                  141\u001bWj\u001bSj(.\u001bW5\u001bGJunior Schools           1752\u001bWj\u001bSj  ;W5\u001bG                             \u001bWj\u001bSj  \u001bW5\u001bGit                  122\u001bWj\u001bSj  \u001bW5\u001bGKettles                  1745\u001bWj\u001bSj  \u001bW5\u001bGKindergartens            1652\u001bWj\u001bSj  \u001bW5\u001bGKitchen Equipment         174\u001bWj\u001bSj \r\n\u001bSj   \u001bBfrom a typical Prestel Directory \u001bSj   \u001bBwhich comes free with the set.\r\n\u001bS*/\r\n\r\n\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

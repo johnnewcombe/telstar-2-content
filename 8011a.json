@@ -1,0 +1,60 @@
+{
+    "author-id": "telstar-util",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBwwYscKBAgQIECAtw4cOHDhw4cOHDhw4cOHDhw4cOHDhw4cOHDhw4cOHDhw4cECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIEA2poyoIeXd05ZUGbfyQQ9-3h16ad2dBI08-m_l5QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC3Dhw4cOHDhw4cOHDhw4cOHDhw4cOHDhw4cOHDhw4cOHDhwQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBBU0ZUEOHIQaeaDCg4ad-7Ll5ad2dBlydceHpp37sOxAgQIEGPRh5aenlBl59MOLZp56MuRB03oOmXZsQdNGVBz6b-XlAgQb8yDpoyoE8ndm38tuHpp37kEHPlToOmjlv659CBAgQIECBBl8cNm_lp3Z0HTRlQaNPPpv5aceHYsQc9-PTh2IMO7IgQIEGPrs6deWHYg07eGHH05oN-ZBky9suzfw25d3Tmg07kCBAgQcMvLnv3YdiDHv28OvTdnXIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgDS8vlBfQZt_JBt38sq5cuQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "[C][n][W]Page not Found :[W]",
+    "navmessage-select": "[C][n][W]Select item or[W]*page#: [ _+ ]",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 8011
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80110,
+        80111,
+        80112,
+        80113,
+        80114,
+        80115,
+        80116,
+        80117,
+        80118,
+        80119,
+        801
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

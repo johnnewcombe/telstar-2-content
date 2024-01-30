@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gj|I}food}left.All}of}the\"|L|L|4T|0,}|5Q|0\"}}}people}have}run}off}and}joined}up\"|L|L|4^|0/}|5Q|0\"}}}with}the}thieves}after}\";J;\"}seasons\"|L|L|5H|0#}|5Q|0\"}}}of}your}misrule\":|5R|0SPACE:|5A|L|1NPQ|0}|5G|0}P\u003e0}|2L|0}|2M|0DtN|L|1NZ|03}|4[|0:|5Q|2J|02,8);\"There}is}no-one}left!}They}have}all\"|L|1N|0$,}|5Q|0\"}}been}killed}off}by}your}decisions}\"|L|1N|0./}|5Q|0\"}}after}only}\";Y;\"}year\";:|5G|0}Y\u003c\u003e1}|2L|0}|5Q|0\"s\";|L|1N|08|1R|0}|5Q|0\".\":|5R|0SPACE:|5A|L|1N|0t5}F1=P/(FD+TD+ST+1):F2=F/(TF+FF+1):|5G|0}F2\u003cF1}|2L|0}F1=F2|L|1N|2H|0+}|5G|0}F2\u003c2}|2L|0}T$=\"Disastrous}Losses!\":|5E|2M|0dXN|L|1N|2R|0)}|5G|0}F1\u003c4}|2L|0}T$=\"Worrying}losses!\":|5E|2M|0dXN|L|1N|2\\|0-}|5G|0}F1\u003c8}|2L|0}T$=\"You}got}off}lightly!\":|5E|2M|0dXN|L|1N|3F|0-}|5G|0}F/P\u003c4}|2L|0}T$=\"Food}supply}is}low.\":|5E|2M|0dXN|L|1N|3P|0.}|5G|0}F/P\u003c2}|2L|0}T$=\"Starvation}Imminent!\":|5E|2M|0dXN|L|1N|3Z|06}|5|Z004",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "j",
+        "page-no": 80021225
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212250,
+        800212251,
+        800212252,
+        800212253,
+        800212254,
+        800212255,
+        800212256,
+        800212257,
+        800212258,
+        800212259,
+        8002122
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

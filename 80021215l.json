@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gl|I|5R|0LINE(\"Perhaps}I've}been}working}too}hard}lately.\")|L|1I|5V|1L|0}|5R|0RETURN|L|1J|0(|1K|0}|5R|0CLEAR|L|1J|022}|5R|0LINE(\"Will}you}forgive}me?}-}say}yes}or}no\")|L|1J|0\u003c$}|5Q|2J|02,10);:|5R|0YESORNO:|5G|0}Y%\u003c0}|2L|0}|2M|0T|EJ|L|1J|0F|L}|5Q|2J|00,10);|L|1J|0P0}|5R|0LINE(\"Thank}you.}And}how}typical}of}you.\")|L|1J|0Z|1U|0}|5R|0RETURN:|5Q|2J|00,12);|L|1J|2L|04}|5R|0LINE(\"Here's}a}poem}of}mine}about}two}people\")|L|1J|2V|08}|5R|0LINE(\"Who}also}find}it}difficult}to}communicate.\")|L|1J|3@|1L|0}|5R|0RETURN|L|1K|3X|1S|0}C%=1:|5C|0}V=1}|3X|0}4|L|1K|4B|1Y|0}|5R|0ENDVERSE(V,V,V,V):|5M|L|1L\\|0%}|5C|0}I=1}|3X|0}4:GONE(I)=|3D|0VNUM(I,I,I,I)|L|1L|0\u0026|1F|0}|5M|L|1L|00|1Z|0}|5C|0}I=5}|3X|0}8:GONE(I)=0:|5M|L|1L|0:|1\\|0}U=1:LA=4:LB=4:LC=4:LD=4|L|1L|0D|1I|0}|5R|0KCL|L|1L|2@|1Y|0}A=|3S|0(4):|5G|0}A=LA}|2L|0}|2M|0t@L|L|1L|2J|1_|0}B=|3S|0(2)*2:|5G|0}A}|2C|0}2|Z052",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "l",
+        "page-no": 80021215
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212150,
+        800212151,
+        800212152,
+        800212153,
+        800212154,
+        800212155,
+        800212156,
+        800212157,
+        800212158,
+        800212159,
+        8002121
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

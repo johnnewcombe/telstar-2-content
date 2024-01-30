@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "y"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bCCareerdata             \u001bG277a      \u001bC0.5p\r\u001bS7% j#5 75 j# j# jk  k#5 7k \"7 j#5\r\u001bV5` j,5 7k j# j# j#5 j 5 =n  5 j,5\r\u001bV## \" ! a\" \"# \"# \" ! ##! !\"  ! \" !\r\u001bCIs presented by\r\u001bFTHE NEW OPPORTUNITY PRESS LIMITED\r\r\u001bQ#####################################\u001bQ                                    \u001bQKey 0 for Employers Alphabetical Index\u001bQ\u001bQ                                    \u001bQKey 1 for Types of Work Index         \u001bQ\u001bQ                                    \u001bQKey 2 for Application of your Discipline\u001bQ\u001bF                                   \u001bQKey 3 for Careerdata News             \u001bQ\u001bQ         \u001bW                          \u001bQ\u001bQ\u001bV   \u001bW       \u001bV\u001bI                      \u001bQ;Q\u001bV                                \u0014w\u001bV                                   \u001bQ\u001bQ \u001bFThis Database is compiled by      ;Q\u001bQs\u001bFAPPLIED VIMWDATA SYSTEMS LIMITED;Qss\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

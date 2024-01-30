@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gg|ICL|L}0|1N|0}|5U|0}|5]|0}|3^|0=\"}\"|L}k|1F|0}|5A|L|0}l|1P|0}|4]|5R|0TITLEPAGE|L}v0}|4[|0:|5R|0DBL(\"Sketch\",12,8):|5R|0DBL(\"Drawing\",11,11)|L}|2@|1S|0}|5R|0OFF:I%=|3F|0(500)|L}|4O|1F|0}|5A|L|0\"`|1J|0}|4]|5R|0KCL|L\"j|1U|0}|5G|0}|3_|0(0)\u003e\"\"}|2L|0}|2M|0Djb|L\"|4C|1F|0}|5A|L|0\"|4D|1J|0}|4]|5R|0OFF|L\"|4N|1V|0}|5O|023;8202;0;0;0;:|5A|L|0#|5P|1I|0}|4]|5R|0YN|L#|5Z|1J|0}Y%=-1|L$|1D\\|0}X%=|3E|0:|5G|0}X%=13}|2@|0}Y%\u003e=0}|2L|5A|L|0$|1N|0\"}X%=X%|2@|0\u0026DF:|5G|0X%\u003c\u003e78|2@|0X%\u003c\u003e89|2LM|0TDd|L$|1XU|0}Y%=1:|5G|0X%=78|2L|0Y%=0|L$\"|1S|0}|5Q|3]|0X%;|3]|08;:|5E|2M|0TDd|L|5_|F|Z120",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "g",
+        "page-no": 80021212
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212120,
+        800212121,
+        800212122,
+        800212123,
+        800212124,
+        800212125,
+        800212126,
+        800212127,
+        800212128,
+        800212129,
+        8002121
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

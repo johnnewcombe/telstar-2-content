@@ -1,0 +1,60 @@
+{
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gf|I|1DZ|0,}|5Q|0\"be}broken}down}into}three}cycles:}-\"'|L|1D|0$*}|5Q|0\"INTELLECTUAL}-}a}cycle}of}33}days,\"|L|1D|0..}|5Q|0\"}}}}affecting}concentration,}judgement\"|L|1D|08$}|5Q|0\"}}}}and}learning}abilities.\"'|L|1D|0L*}|5Q|0\"EMOTIONAL}}}}-}a}cycle}of}28}days,\"|L|1D|0V-}|5Q|0\"}}}}controlling}moods,}creativity}and\"|L|1D|0`|1\\|0}|5Q|0\"}}}}emotional}life.\"'|L|1D|0t*}|5Q|0\"PHYSICAL}}}}}-}a}cycle}of}23}days,\"|L|1D|0~*}|5Q|0\"}}}}governing}energy,}coordination\"|L|1D|2H|1X|0}|5Q|0\"}}}}and}stamina.\"|L|1D|3F|1K|0}|5R|0SPACE|L|1D|3P|1I|0}|4[|0:|5Q|0'|L|1D|3Z|0*}|5Q|0\"}}}These}cycles}start}at}birdh}and\"|L|1D|4D|0)}|5Q|0\"continue}with}absolute}regularity\"|L|1D|4N|1Y|0}|5Q|0\"throughout}life.\"'|L|1ET|0.}|5Q|0\"}}}Each}cycle}has}a}positive}phase}and\"|L|1E^Z|0}|5Q|0\"a}negative}phase.\"'|L|1E|0()}|5Q|0\"}}}During}the}positive}phase,}the\"|L|1E|02*}|5Q|0\"energy}cont|Z122",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "telesoftware",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "f",
+        "page-no": 80021226
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212260,
+        800212261,
+        800212262,
+        800212263,
+        800212264,
+        800212265,
+        800212266,
+        800212267,
+        800212268,
+        800212269,
+        8002122
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

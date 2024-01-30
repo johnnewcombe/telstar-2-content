@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 8001710,
+        "frame-id": "a"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPresenting Prestel     \u001bG646609a   \u001bC  0p\r\n\u001bGWHO CAN GET PRESTEL    \u001bF\u001bCPublic service\u001bR          \u001bI     h|~?  \u001bF\u001bCopens in ly79 \u001bCTest Service\u001bR   {7        ;GManchester\u001bGLondon \u001bR       j}|||t     \u001bGEdinburgh \u001bGNorwich      \u001bR x7     \u001bGNottingxW/K^4#\u001a{?      \u001bGLiverpool \u001bS   | n$55    \u001bR h?       \u001bGGlasgow\r\n\u001bS  b1k!5     \u001bR *\"z}~5     \u001bGLeeds\r\n\u001bS  ($j  \u001bR|x|0`|4 4   \u001bG Cardiff\r\n\u001bSn=% j  \u001bR'j}    \u001bGChelmsford\u001bSn=%    \u001bRzt\"# *|0  \u001bGNewcastle \u001bSn=% \u001bRh?'`?  kt \u001bGBristol\r\n\u001bSj5  \u001bR*/u  \"! b{ \u001bGReading\r\n\u001bsju   \u001bR  /  *}x~4\u001bGHemel\r\n\u001bSj5   \u001bRx|}  *#p\u001bG Hempstead\u001bSj5 \u001bR\u001bRj%   `5\r\n\u001bSj5  \u001bR c/#    |?!\r\n\u001bSj5  \u001bR\u001bR\"!#      # #/owqp\r\n\u001bSj5   \u001bR           ||%\r\n\u001bSj5   ;R          #?c#/##\r\n             \u001bR p/##!\r\n\r\n\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}

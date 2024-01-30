@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 800171,
+        "frame-id": "a"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\u0014\u001bBPresenting Prestel     \u001bG646601a   \u001bC  0p\r\n\r\n              PRESENTING\r\n\u001bC \u001bG\r\n\u001bSj5p\r\n\u001bSk7/!\u001bRs#s\u001bQs#s\u001bVs##\u001bTs##\u001bW#s#\u001bUs##\u001bSsTM *n=\r\n\u001bSn=$\u001bR,,,\u001bQ,,,\u001bV,, \u001bT,,,\u001bW , \u001bU,, \u001bS,   *n=\r\n\u001bSzu|0\u001bRs  \u001bQs\"q\u001bVspp\u001bTpps\u001bW s \u001bUspp\u001bSspp *n=\r\n\u001bSj5#                               j5\r\n\u001bSj5                                j5\r\n\u001bSj5       \u001bGTHE  POST OFFICE\u001bS       j5\r\n\u001bSj5  \u001bG     VIEWDATA SERVICE  pSLh4u5                                j5\r\n\u001bSj5 \u001bC informs educates entertains \u001bSj5\r\n\u001bSj5        p|\u0003\u0003\u0003\u0003\u0003S44}5  \u001bCat the  PRESS  of a  button \u001bSj5\r\n\u001bSj5\r\n\u001bSj5\r\n\u001bSj5  \u001bGA NEW WAY TO USE THE TV SET\r\n\u001bSj5\r\n\r\n\u001br\u001e\u000b                                        \r\n\r\n\u001e\u000b\u001bB*\r\n\r\n\r\n",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}
