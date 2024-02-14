@@ -1,12 +1,12 @@
 {
     "author-id": "",
     "connection": {
-        "address": "adventure-server",
-        "mode": "full_duplex",
-        "port": 6505
+        "address": "nightowlbbs.ddns.net",
+        "mode": "viewdata",
+        "port": 6400
     },
     "content": {
-        "data": "[G]You are about to connect to Cave\r\n[G]Adventure,[F]make sure you have a map!\r\n\r\n[W]Exiting the Gateway service will\r\n[W]return you to Telstar.\r\n\r\n[G]The DLE character (Ctrl P), where\r\n[G]keyboards support it, can also be\r\n[G]used to return to Telstar.",
+        "data": "[G]You are about to connect to The\r\n[G]Night Owl BBS\r\n[F]Evenings Only though!\r\n\r\n[W]Exiting the Gateway service will\r\n[W]return you to Telstar.\r\n\r\n[G]The DLE character (Ctrl P), where\r\n[G]keyboards support it, can also be\r\n[G]used to return to Telstar.",
         "type": "markup"
     },
     "cost": 0,
