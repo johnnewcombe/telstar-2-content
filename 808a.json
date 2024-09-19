@@ -1,0 +1,60 @@
+{
+    "author-id": "Short Circuit",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgcMHCBAgQIECAl_____________________________________________yX_____________________________________________Jf____________________________________________8l_____________________________________________yX_____________________________________________Jf__________-_X__-__v_r1-_-vX__69fv___________8l___________-r_7_6v-r_q_6v-r_q__9X____________yX____________Xf__i56v-r_q_4sf7__1f____________Jf__________-7X-v-r_q_ql-r_q-6___V____________8l_____________________________________________yX_____0CBAgQIECBAgQIECBAgQIECBAgQIECBAg1f_____Jf_____QOFjBAoeIEDxYwQOFjBA0QNECh4gQLHiTV_____8l_____9A1QIUCBqgQNUDVA1QIUDVA1QIGqBAgaoNX_____yX_____0DVAwQIGqBA3zoEDVAwQNUDVAgaoECBqg1f_____Jf_____QKViFAoWoECVAlQKViFApWIUChagQIEqDV_____8l_____9AgQIECBAgQIECBAgQIECBAgQIECBAgQINX_____yX_____________________________________________Jf____________________________________________8l_____________________________________________yX_____________________________________________Jf____________________________________________8l_____________________________________________yX_____________________________________________QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "[C][n][W]Page not Found :[W]",
+    "navmessage-select": "[C][n][W]Select item or[W]*page#: ",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 808
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        8080,
+        8081,
+        8082,
+        8083,
+        8084,
+        8085,
+        8086,
+        8087,
+        8088,
+        8089,
+        808
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}
