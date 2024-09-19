@@ -13,8 +13,8 @@
     "cursor": false,
     "frame-type": "information",
     "header-text": "",
-    "navmessage-notfound": "[G][n][W]Page not Found :[W]",
-    "navmessage-select": "[G][n][W]Select item or[W]*page#: ",
+    "navmessage-notfound": "  [W]Page not Found :[W]",
+    "navmessage-select": "  [W]Select item or[W]*page#: ",
     "pid": {
         "frame-id": "b",
         "page-no": 808
