@@ -1,0 +1,59 @@
+{
+  "pid": {
+    "page-no": 224,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "header-text": "",
+  "cost": 0,
+  "frame-type": "information",
+  "redirect": {
+    "page-no": 0,
+    "frame-id": ""
+  },
+  "content": {
+    "data": "[R]1[W]      Latest IT News Headlines",
+    "type": "markup"
+  },
+  "title": {
+    "data": "[r[  Computer Weekly]][r][h-]",
+    "type": "markup,9"
+  },
+  "routing-table": [
+    2240,
+    2241,
+    2242,
+    2243,
+    2244,
+    2245,
+    2246,
+    2247,
+    2248,
+    2249,
+    224
+  ],
+  "cursor": false,
+  "connection": {
+    "address": "",
+    "mode": "",
+    "port": 0
+  },
+  "author-id": "John Newcombe",
+  "response-data": {
+    "response-fields": null,
+    "response-action": {
+      "exec": "",
+      "args": null,
+      "post-action-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      },
+      "post-cancel-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      }
+    }
+  },
+  "navmessage-select": "",
+  "navmessage-notfound": ""
+}
