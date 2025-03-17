@@ -4,7 +4,7 @@
         "frame-id": "a"
     },
     "visible": true,
-    "carousel": true,
+    "carousel": false,
     "header-text": "[Y]MICRONET 800 (C)",
     "cost": 0,
     "frame-type": "information",
