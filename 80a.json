@@ -1,7 +1,7 @@
 {
     "author-id": "",
     "content": {
-        "data": "/r/n 1[C]The Centre for Computing History\r\n\n 2[C]EMF\r\n\n 3[C]CuTEL\r\n\n 0[Y][n][B]MICRONET PAGES  [-]",
+        "data": "\r\n 1[C]The Centre for Computing History\r\n\n 2[C]EMF\r\n\n 3[C]CuTEL\r\n\n 0[Y][n][B]MICRONET PAGES  [-]",
         "type": "markup"
     },
     "cost": 0,
@@ -32,7 +32,7 @@
         8
     ],
     "title": {
-        "data": "       [y[Computing]]\r\n\n",
+        "data": "\r\n[y[   Computing]]\r\n\n",
         "merge-data": null,
         "type": "markup"
     },
