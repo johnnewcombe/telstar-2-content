@@ -1,0 +1,40 @@
+{
+    "author-id": "",
+    "content": {
+        "data": " 1[C] The Centre for Computing History\r\n\n 2[Y]EMF\r\n\n 3[M]CuTEL\r\n\n 0[Y][n][B]MICRONET PAGES[-]",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "gateway",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 80
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "routing-table": [
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        8
+    ],
+    "title": {
+        "data": "[y[Computing]]\r\n\n",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}
