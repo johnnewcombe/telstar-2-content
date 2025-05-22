@@ -1,0 +1,59 @@
+{
+  "pid": {
+    "page-no": 258,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "header-text": "",
+  "cost": 0,
+  "frame-type": "information",
+  "redirect": {
+    "page-no": 0,
+    "frame-id": ""
+  },
+  "content": {
+    "data": "https://edit.tf/#0:BVgMkNFCVw8YLBB2EAFk1cIECBAgDsmrhkxZYUCBADQIGHBAdI-FixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYs6IEB0i1QIH2tW0SBJG_blIoHyNW0Cb8yDpoyoI-7ftyoEBHUgQHSLVAga6kDVq316l2tG3aoOHB6nat9epdrXa9WP2gQINSBAdItUCBrqQdevXxuQauDXbw8JWqDr19ekGpBq9c-CBAg1IEB0irWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixOgQHSP3gEmQadRBVoRINSLEQIG_TQgjZcXLrh5eRDFy4aoECBARQav_1ggQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIEBFAg___qBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQEUGD___tECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBARQav____-cECBAgQICh1AgQIECBAgQIECBAgQIECBAgQIEBFB6________9ECBAgKHQ7FAqBzMPTLz6II-7L35oECBAgQEUH___fo0aBAjX_WCAodDskCAND37dvXdpx4cm9AgQIECBARPb_5VA-5q___nwQICh0OzQKgcLLlxb9uHdpwoECBAgQIEBE9q_ldX1Oj9q-mhKgKHQ7RAqDR92_blQRNOHl5QIECBAgQETyr-V1f_r7f91d0CAodDtUCAHV3ZMvLvh5ZUCBAgQIECBARPIP5XU3_pfvb1_aoCh0O2QIA0ffi2adyChh5dPKBAgQIEBFAgRbyu_4_88OydAgKHQ7dAgB1-WnplQdN6CPu37cvlAgQFzSBAgwNvulp819ECAodDuECoNH3b9uVBSy9tOXvzQIECBAXNIECBFvddd7rqtQGSh0rgfIECBAgQIECBAgQIECBAgQIEBM8gQYPxdSiSKVJPogQFcH7-vToECBAgQIECBAgQIECBAgQFIkEn-___v379-____p4_v0CBAgQIECBAgQIECBAgQIECBAdAuUFPLuyILO_ryQU9-bp3w8soRggracvfNh8IJO7Jl8IECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:PN=212:SC=000a",
+    "type": "edit.tf"
+  },
+  "title": {
+    "data": "",
+    "type": ""
+  },
+  "routing-table": [
+    2580,
+    2581,
+    2582,
+    2583,
+    2584,
+    2585,
+    2586,
+    2587,
+    2588,
+    2589,
+    8
+  ],
+  "cursor": false,
+  "connection": {
+    "address": "",
+    "mode": "",
+    "port": 0
+  },
+  "author-id": "John Newcombe",
+  "response-data": {
+    "response-fields": null,
+    "response-action": {
+      "exec": "",
+      "args": null,
+      "post-action-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      },
+      "post-cancel-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      }
+    }
+  },
+  "navmessage-select": "",
+  "navmessage-notfound": ""
+}
