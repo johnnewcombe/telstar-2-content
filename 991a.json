@@ -12,7 +12,7 @@
         "frame-id": ""
     },
     "content": {
-        "data": "[W][GREETING]    [G][DATE]   [TIME]\r\n   [W][NAME]\n\n\r\n[b][h-][g[ Welcome to Prestel]][b][h-]\n\n\r\n      [G]YOU ARE CONNECTED TO [SERVER]\r\n      [G]     [DATE] [TIME]\r\n\n\n\r\n",
+        "data": "[W][GREETING]    [G][DATE]   [TIME]\r\n   [W][NAME]\n\n\r\n[b][h-][g[Welcome to  Prestel]][b][h-]\n\n\r\n      [G]YOU ARE CONNECTED TO [SERVER]\r\n      [G]     [DATE] [TIME]\r\n\n\n\r\n",
         "type": "markup"
     },
     "title": {
