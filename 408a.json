@@ -1,0 +1,59 @@
+{
+    "pid": {
+        "page-no": 408,
+        "frame-id": "a"
+    },
+    "visible": true,
+    "header-text": "",
+    "cost": 0,
+    "frame-type": "information",
+    "redirect": {
+        "page-no": 0,
+        "frame-id": ""
+    },
+    "content": {
+        "data": "\u000c\r\r\r\u0014\u001bCEASTEL                 \u001bG4080a     \u001bC  1p\u001bW;Wh,    \u001bQ/        \u001bWhl       \u001bQ/\r\n\u001bR jpj#57%k!7!75j#5 j  7kj 57k\"7jj#j+\r\n\u001bW j j,53kj 7!7kj 5 j  5jj 55j 5jj#b#5\r\n\u001bR\u001bR*,\" !##\" #!!\"\" ! *,%##\"#!!\" !\"\"#\"#!\r\n  \u001bB\u001bB0\u001bG NEWS,WEATHER    \u001bB1 \u001bGSPORT\r\n        \u001bQ/                  \u001bQ/\r\n\u001bB  \u001bB2\u001bG HOTELS IN THE EASTERN COUNTIES\r\n        \u001bQ/\r\n\u001bB   3 \u001bGCOMMUNITY SERVICES\r\n       pwj.N2EL   \u001bQ/\r\n\u001bB\u001bB ;B5 \u001bGHOROSCOPES\r\n        \u001bQ/\r\n\u001bB  \u001bB6 ;GTRAVEL AND TRANSPORT\r\n        \u001bQ/\r\n  \u001bB\u001bB7 \u001bGCLUBS,SOCIETIES,ORGANISATIONS\r\n  \u001bB     ;Q/\r\n\u001bB  \u001bB8 \u001bGQUIZZES,JOKES,GAMES,PASTIMES\r\n        \u001bQ/\r\n   \u001bB9\u001bI\u001bGADVERTISEMENT INDEX  \u001bB ;BPress\r\n        \u001bQ/         \u001bB          \u001bB number\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "title": {
+        "data": "",
+        "type": ""
+    },
+    "routing-table": [
+        4080,
+        4081,
+        4082,
+        4083,
+        4084,
+        4085,
+        4086,
+        4087,
+        4088,
+        4089,
+        408
+    ],
+    "cursor": false,
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "author-id": "editf-frame-generator",
+    "response-data": {
+        "response-fields": null,
+        "response-action": {
+            "exec": "",
+            "args": null,
+            "post-action-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            },
+            "post-cancel-frame": {
+                "page-no": 0,
+                "frame-id": ""
+            }
+        }
+    },
+    "navmessage-select": "",
+    "navmessage-notfound": ""
+}
