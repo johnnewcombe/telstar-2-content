@@ -1,0 +1,59 @@
+{
+  "pid": {
+    "page-no": 101,
+    "frame-id": "c"
+  },
+  "visible": true,
+  "header-text": "[Y][n][B]GATESHEAD S.I.S.[-][Y]",
+  "cost": 0,
+  "frame-type": "information",
+  "redirect": {
+    "page-no": 0,
+    "frame-id": ""
+  },
+  "content": {
+    "data": "\r\n[r[     Shopping  with]]\r\n[r[           T e s c o]]\r\n\r\n\r\n         KEY[Y]_[W]TO VIEW PRODUCTS",
+    "type": "markup"
+  },
+  "title": {
+    "data": "",
+    "type": ""
+  },
+  "routing-table": [
+    101030,
+    101031,
+    101032,
+    101033,
+    101034,
+    101035,
+    101036,
+    101037,
+    101038,
+    101039,
+    101031
+  ],
+  "cursor": false,
+  "connection": {
+    "address": "",
+    "mode": "",
+    "port": 0
+  },
+  "author-id": "editf-frame-generator",
+  "response-data": {
+    "response-fields": null,
+    "response-action": {
+      "exec": "",
+      "args": null,
+      "post-action-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      },
+      "post-cancel-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      }
+    }
+  },
+  "navmessage-select": " ",
+  "navmessage-notfound": "[Y][n][B]Page not Found : "
+}

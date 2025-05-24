@@ -1,0 +1,59 @@
+{
+  "pid": {
+    "page-no": 101,
+    "frame-id": "b"
+  },
+  "visible": true,
+  "header-text": "[Y][n][B]GATESHEAD S.I.S.[-][Y]",
+  "cost": 0,
+  "frame-type": "information",
+  "redirect": {
+    "page-no": 0,
+    "frame-id": ""
+  },
+  "content": {
+    "data": "[y][m-][y[Shopping Service]][y][m-]\r\n\r\n      1 Shopping With[Y]GREGGS\r\n\r\n      3 Shopping With[R]TESCO\r\n\r\n      5 Shopping With[Y]the CHEMIST\r\n\r\n\r\n\r\n      9[Y]Leave[W]CVS\r\n      0[Y]Return to[W]MAIN INDEX\r\n\r\n\r\n[y][=]",
+    "type": "markup"
+  },
+  "title": {
+    "data": "",
+    "type": ""
+  },
+  "routing-table": [
+    10100,
+    10101,
+    10102,
+    10103,
+    10104,
+    10105,
+    10106,
+    10107,
+    10108,
+    0,
+    10103
+  ],
+  "cursor": false,
+  "connection": {
+    "address": "",
+    "mode": "",
+    "port": 0
+  },
+  "author-id": "editf-frame-generator",
+  "response-data": {
+    "response-fields": null,
+    "response-action": {
+      "exec": "",
+      "args": null,
+      "post-action-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      },
+      "post-cancel-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      }
+    }
+  },
+  "navmessage-select": "[W][N]                 SELECTION:[W][_+]",
+  "navmessage-notfound": "[Y][n][B]Page not Found : "
+}

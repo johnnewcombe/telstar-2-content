@@ -1,0 +1,60 @@
+{
+  "pid": {
+    "page-no": 101,
+    "frame-id": "n"
+  },
+  "visible": true,
+  "disable-clear": false,
+  "header-text": "[Y][n][B]GATESHEAD S.I.S.[-][Y]",
+  "cost": 0,
+  "frame-type": "information",
+  "redirect": {
+    "page-no": 0,
+    "frame-id": ""
+  },
+  "content": {
+    "data": "https://edit.tf/#0:QIEEeDUi05EWDEQU10ldTXIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBABG1ItOHPQUKU-JVh1KaBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQA0C1atWrVq1atWrVq1agQIECBAgQIECBAgQIEDBiDpw59SonpoECBBQn0qUmJHioJ8GpTQIEDdqwQR0CBAgQMGQNAgQIECBAgQIEFKLBiWUEKlFgy0CBAgQN2rBBHQIECBAwZg6kWnDnoECBAgQUasmHLQT4NSmgQIECBA3asEEdAgQIEDBoDlxZkyfHjp6aBBTqzKkGdBQQqUGcgQIEDdqwQR0CBAgQMGoOXFmTJ8eOnpoEEKlBnII0yDLi00CBAgQN2rBBHQIECBAwbA5cWZMnx46emgQQZkxBCpQZyBAgQIECBA3asEEdAgQIEDBuDlxZkyfHjp6aBBDpVZ0ORZnVaiCNMloEDNu1QR0CBAgQMHAOXFmTJ8eOnpoEEOfSnII0yDLi00CBAgQN2rBBHQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQS4tkGxD1pMWugk1Is1AgQIECBAgQIECBAgQIECBAgQIECBBLi2QbIPWkxa6CdFsVEFCDHioECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+    "type": "edit.tf"
+  },
+  "title": {
+    "data": "",
+    "type": ""
+  },
+  "routing-table": [
+    1010320,
+    1010321,
+    101031,
+    1010323,
+    1010324,
+    1010325,
+    1010326,
+    1010327,
+    1010328,
+    1010329,
+    1010322
+  ],
+  "cursor": false,
+  "connection": {
+    "address": "",
+    "mode": "",
+    "port": 0
+  },
+  "author-id": "editf-frame-generator",
+  "response-data": {
+    "response-fields": null,
+    "response-action": {
+      "exec": "",
+      "args": null,
+      "post-action-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      },
+      "post-cancel-frame": {
+        "page-no": 0,
+        "frame-id": ""
+      }
+    }
+  },
+  "navmessage-select": " ",
+  "navmessage-notfound": "[Y][n][B]Page not Found : "
+}
