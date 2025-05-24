@@ -4,7 +4,7 @@
         "frame-id": "a"
     },
     "visible": true,
-    "header-text": "",
+    "header-text": "[Y]EASTEL[W]",
     "cost": 0,
     "frame-type": "information",
     "redirect": {
@@ -12,8 +12,8 @@
         "frame-id": ""
     },
     "content": {
-        "data": "\f\n\n\n\u0014\u001BCEASTEL                 \u001BG408a      \u001BC0.5p\n\n\u001BR     j\n\u001BR     6      8,,,&),,,,,pp\n\u001BR    6      h!            #d\n\u001BR   6      6 \u001BQ \u001BGNORFOLK\u001BR    ),0\n\u001BR   #),,)pz  \u001BQ  |           \u001BW\u001BR\"4\n           \u001BQ\u007F////   \u001BT \u001BGSUFFOLK\u001BRi\n           \u001BQ\u007F       \u001BT \u001BT  \u001BT\u001BT/ \u001BR j\n\u001BW    \u007F\u007F\u007F\u007F\u007F \u001BQ/\u001BW o\u007F\u007F\u007F\u007F  \u001BT \u001BWo\u007F\u007F\u007F\u007F\u001BR %\n\u001BW    \u007F pp\u007Fj\u007F\u007F\u007F\u007Fj p \u007Fj\u007F\u007F\u007F\u007Fj pp\u007Fj\u007F\u007F\u007F\u007F\n\u001BW    \u007F /\u007F\u007Fj p \u007Fj //\u007Fjp p\u007Fj /\u007F\u007Fj \u007F\u007F\u007F\n\u001BW    \u007F |\u007F\u007Fj \u007F \u007Fj|| \u007Fj\u007F \u007F\u007Fj |\u007F\u007Fj \u007F\u007F\u007F\n\u001BW    \u007F ##\u007Fj # \u007Fj # \u007Fj\u007F \u007F\u007Fj ##\u007Fj \u007F\u007F\u007F\n\u001BW    \u007F\u007F\u007F\u007F\u007Fj \u007F \u007Fj\u007F\u007F\u007F\u007Fj\u007F \u007F\u007Fj\u007F\u007F\u007F\u007Fj ##\u007F\n      \u001BW   ~\u007F\u007F\u007F\u007F     ~\u007F\u007F\u007F\u007F \u001BT|\u001BW ~\u007F\u007F\u007F\u007F\n\u001BG\u001BG \u001BQpppppppp|       \u001BT\u001BT    \u001BT\u007F||||||\n   \u001BQ/########     ;W   \u001BR`xpp`8& \u001BT /\n\u001BBNORFOLK              \u001BR*0  !\u001BF SUFFOLK\n  \u001BBAREA             \u001BR\u001BRm      \u001BFAREA\n\u001BGInformation\u001BA0         \u001BR*p\u001BGInformation\u001BA5\u001BGMarketplace\u001BA1\u001BG           \u001BGMarketplace\u001BA6\n\u001E\u000B                                        \n\n",
-        "type": "raw"
+        "data": "https://edit.tf/#0:BxYNOpFmIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgJIECBAg1IECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAkgQIECBsgQIECBA4WLFiZSsWLFizhwQIECBAgQIECBAgQICSBAgQNkCBAgQINCFAgQIECBAgQIECBHkQIECBAgQIECBAgJIECBsgQIECBA2QIEAedPpRp8yWSQIECBSsYIECBAgQIECAkgQIEalYsU8PSBAgQEfhJAgQIECBAgQIECBE0QIECBAgQICSBAgQIECBAgQEf69evXl0CBAgQU6saNPmSyWlAgQIECBAgQIECBAgQIECBAR_oECBAgQIECBAUQIEC9AgJakCBAgQIECBAgQIC______0BFeXQb_____QIECBBq____9AS0oECBAgQIECBAgL_0HDh_1f____qQcEH_V____-pBw4f9X____oECBAgQIECAv_Qf___Ug4IP-pAvX_9XBBw_6kH___1IP__-gQIECBAgQIC_9Bw__9SD-g_6uHBB_1f0H__qQcP__Ug___6BAgQIECBAgL_0H___1IF6D_qR_0H_V_Qf_-pB___9SD___oECBAgQIECAv_4cOH_Ug-IP-rhw4f9X9B__6uHDh_1IP__-gQIECBAgQIC69evXr9XD_w_ql69ev1f-H_-qXr16_Vw4cP6BAgQIECBAgLoECBAgXr169egQIECBevXr16Ap_LoF69evXoECBAgQEUCDhw4cOHDhw_oECBAgQIECBAgQICi9evXr16_-gQIECBARQIF6NGjRo0aNGgQIECBAgQIECBAgJIODhMgQFF6BAgQIAU6fSjT5ktAgQIECBAgQIECBAgQIECAk2QBqdWNGnzJaBAgBIEEGlFgoECBAgQIECBAgQIECBAgQICSlgGQIINKLBQIECCTuzb-W3D0079wFgHQIECBAgQIECBAgQSd2bfy24emnfuAtZuHlry9OGzDjygWIdAgQIECBAgQIECBBNw8teXpw2YceUC2QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
     },
     "title": {
         "data": "",
