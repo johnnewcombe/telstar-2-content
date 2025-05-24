@@ -4,6 +4,7 @@
     "frame-id": "a"
   },
   "visible": true,
+  "carousel": true,
   "header-text": "[Y]REDIFFUSION C.V.S.",
   "cost": 0,
   "frame-type": "information",

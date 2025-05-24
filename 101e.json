@@ -4,6 +4,7 @@
     "frame-id": "e"
   },
   "visible": true,
+  "carousel": true,
   "header-text": "[Y][n][B]GATESHEAD S.I.S.[-][Y]",
   "cost": 0,
   "frame-type": "information",
