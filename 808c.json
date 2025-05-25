@@ -1,0 +1,60 @@
+{
+    "author-id": "Short Circuit",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "https://zxnet.co.uk/teletext/editor/index.html#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAukQIEyRAmTJECZMmQIkyRAgQIEChEmQJkyBBmzJEGZMkQJiWpHrQN0aFG3Qt0bXUjRtW6NC3RoW6PWi1oy7ly5QOSSdHrJani5p9WJEH1B9WbdTRA1-rEn1YkWrPiDU0L5s2ZEmJPFi4lqaoGv_gwQf0H9Bq1deDX-gQf-DDrw_oNTUu5cuUSAl14cC6DJkSIMmTIgQIECBAgyJECBAgQIECDAgQIMWbNmQJCTxZsLoFDlyhcuXKBAgQIECBSxQIECBAgQIHCBAgQOXLlAgJNUHougxZsyDNmzIECBAgQIECFAgQIECBAgzIECBBmzZkmAk1Qfy7hQ5coHLlyhSIkCBAgRIECBAgQIECBigQIECly5YoCXPnzLpkGbMgxZsyBAgQpGHBA03ZnOnxy4cMyBAgQYs2bIiJIUGougUOXKBQ5csUDJQgQJGSNGjRoECBAgQIsCBAgcuXKAk3Roy6DFmzIMWbMkyZMmBAgQdkPljhd_WiBQiSIEGDBmzJCS1YsLoHDlygQJHLlApcuXKBB__6v____cKEGRCgwIGChyxJN0aMugzZkiBAoRMkiBBmzZEH_qvd___dAhRIECBIgQIECYktWfC6hy5UIECBQgUoECBy5YKna_Pv_oPyhyhQKECBAgQICXDh_LskyRCgRIECBAgQIMyZxh3f___-vQosyRBgQIEKBAgQIEGQugQoEGJQgQIECBAocsnCBwpUp0KBEkSKWCBAgYIECBAgQOS6BAgQJMyBAgQIEChRiQNsuBg4YIMCBkgRZ1nBAgQIEGDIoLoUCBAkconDlgkcsULhM0VMECbx-bssiBAiyIEalwpcuXLEugQIEGbMgQIECBBgTIMCVBh___79BlQKeCxCgQINKBAgRJC7FAgQKHKBAgQIMCVAgbIP33X_foEGpAgQI0bRAgQZUCBBmLpECBBizJEGDAg9IEDXJo__-u9CgcIUCBAgwJUCBAgR5ECkumQIECByxUOXKFqgQJGH7___pWiZAgQIECB0gQIECBBqQYgU3D5QM2PPotldd2VAx59ECDR06cObpev5ZenLfmy8-i7rrQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA:zx=BA00:PS=0:RE=0",
+        "type": "zxnet"
+    },
+    "cost": 0,
+    "cursor": false,
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "  [W]Page not Found :[W]",
+    "navmessage-select": "  [W]Select item or[W]*page#: ",
+    "pid": {
+        "frame-id": "c",
+        "page-no": 808
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        8080,
+        8081,
+        8082,
+        8083,
+        8084,
+        8085,
+        8086,
+        8087,
+        8088,
+        8089,
+        808
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}
